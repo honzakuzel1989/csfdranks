@@ -1,0 +1,2428 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<!-- saved from url=(0057)http://www.csfd.cz/zebricky/nejlepsi-filmy/?show=complete -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="cs" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://developers.facebook.com/schema/"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<meta name="description" content="ČSFD.cz">
+
+
+	<title>Žebříčky | ČSFD.cz</title>
+
+	<link rel="shortcut icon" href="http://img.csfd.cz/assets/b1229/images/favicon.ico" type="image/x-icon">
+	<link rel="apple-touch-icon" href="http://img.csfd.cz/assets/b1229/images/apple_touch_icon.png">
+
+
+		<link rel="stylesheet" href="./bestmovies_files/jquery-ui.css" type="text/css">
+	<link rel="stylesheet" href="http://img.csfd.cz/assets/b1229/modules/web/styles/styles.css">
+	<link rel="stylesheet" type="text/css" href="./bestmovies_files/print.css" media="print">
+
+		<script type="text/javascript" async="" src="./bestmovies_files/ga.js"></script><script async="async" defer="defer" src="./bestmovies_files/xgemius.js"></script><script type="text/javascript" charset="utf-8" src="./bestmovies_files/jquery.min.js"></script> 
+	<script type="text/javascript" charset="utf-8" src="./bestmovies_files/jquery-ui.min.js"></script> 
+	<script type="text/javascript"> if (window.jQuery === undefined) { document.write(decodeURI(
+			"%3Clink rel=\"stylesheet\" href=\"http://img.csfd.cz/assets/b1229/libs/jqueryui/themes/base/jquery-ui.css\" type=\"text/css\" /%3E"+
+            "%3Cscript src=\"http://img.csfd.cz/assets/b1229/libs/jquery/jquery.min.js\" type=\"text/javascript\">%3C/script%3E"+
+            "%3Cscript src=\"http://img.csfd.cz/assets/b1229/libs/jqueryui/jquery-ui.min.js\" type=\"text/javascript\">%3C/script%3E"
+		)); }
+	</script> 
+	<script type="text/javascript" charset="utf-8" src="./bestmovies_files/scripts.js"></script>
+
+	
+		<script type="text/javascript">
+		CSFD.app.action.id = ":Web:Charts:filmsByRatingAverageTop";
+		
+		CSFD.app.identity = {"id":395156,"nick":"honza.kuzel"};
+		CSFD.app.visitor = {"country":[1]};
+		
+	</script>
+
+	
+	<meta property="og:site_name" content="ČSFD.cz">
+	<meta property="og:image" content="http://img.csfd.cz/assets/b1229/modules/web/images/facebook_csfd.png?1">
+	<meta property="og:description" content="ČSFD.cz">
+	<meta property="og:title" content="Žebříčky">
+	<meta property="fb:app_id" content="260163667481043">
+
+	<link rel="canonical" href="http://www.csfd.cz/zebricky/nejlepsi-filmy/">
+	<link rel="search" type="application/opensearchdescription+xml" title="ČSFD.cz" href="http://img.csfd.cz/assets/b1229/modules/web/misc/opensearch.xml">
+
+	<meta name="application-name" content="ČSFD.cz">
+	<meta name="msapplication-tooltip" content="ČSFD.cz">
+	<meta name="msapplication-starturl" content="http://www.csfd.cz/">
+	<meta name="msapplication-navbutton-color" content="#BB0011">
+
+	<meta name="msapplication-task" content="name=Přihlášení;action-uri=/prihlaseni/;icon-uri=http://img.csfd.cz/assets/b1229/images/favicon.ico">
+	<meta name="msapplication-task" content="name=Novinky;action-uri=/novinky/;icon-uri=http://img.csfd.cz/assets/b1229/images/favicon.ico">
+	<meta name="msapplication-task" content="name=Žebříčky;action-uri=/zebricky/;icon-uri=http://img.csfd.cz/assets/b1229/images/favicon.ico">
+	<meta name="msapplication-task" content="name=Televize;action-uri=/televize/;icon-uri=http://img.csfd.cz/assets/b1229/images/favicon.ico">
+
+	<script type="text/javascript" charset="utf-8">
+		try {
+			if(window.external.msIsSiteMode()) {
+					window.external.msSiteModeClearIconOverlay();
+			}
+		} catch(e) {}
+	</script>
+
+<style type="text/css"></style></head>
+
+<body class="ap-web js branding-subpixel" id="ap-web-charts">
+	<script type="text/javascript">
+		$('body').removeClass('no-js').addClass('js');
+	</script>
+
+		<div id="ad-wrapper">
+
+<div id="bmone2n-19877.2.1.5" class="ui-advert ad-ibillboard ad-ibillboard-videobanner" data-code="19877.2.1.5">
+	<noscript>
+		&lt;div style="display: inline"&gt;&lt;a href="http://go.cz.bbelements.com/please/redirect/19877/2/1/5/"&gt;&lt;img src="http://go.cz.bbelements.com/please/showit/19877/2/1/5/?typkodu=img&amp;keywords=" style="border-width: 0" alt="" /&gt;&lt;/a&gt;&lt;/div&gt;
+	</noscript>
+</div>
+		<div id="ad-leaderboard"><div class="ad-pmg ad-pmg-leaderboard" data-element-type="leaderboard"></div>
+</div>
+		<div class="ad-pmg-skyscraper-left-wrapper">
+			<div id="ad-skyscraper-left"><div class="ad-pmg ad-pmg-skyscraper-left" data-element-type="skyscraper-left">
+	
+<div id="bmone2n-19877.2.1.2" class="ui-advert ad-ibillboard ad-ibillboard-skyscraper-left" data-code="19877.2.1.2">
+	<noscript>
+		&lt;div style="display: inline"&gt;&lt;a href="http://go.cz.bbelements.com/please/redirect/19877/2/1/2/"&gt;&lt;img src="http://go.cz.bbelements.com/please/showit/19877/2/1/2/?typkodu=img&amp;keywords=" style="border-width: 0" alt="" /&gt;&lt;/a&gt;&lt;/div&gt;
+	</noscript>
+</div>
+
+</div>
+</div>
+		</div>
+		<div id="ad-skyscraper-right"><div class="ad-pmg ad-pmg-skyscraper-right" data-element-type="skyscraper-right">
+	
+<div id="bmone2n-19877.2.1.7" class="ui-advert ad-ibillboard ad-ibillboard-skyscraper-right" data-code="19877.2.1.7">
+	<noscript>
+		&lt;div style="display: inline"&gt;&lt;a href="http://go.cz.bbelements.com/please/redirect/19877/2/1/7/"&gt;&lt;img src="http://go.cz.bbelements.com/please/showit/19877/2/1/7/?typkodu=img&amp;keywords=" style="border-width: 0" alt="" /&gt;&lt;/a&gt;&lt;/div&gt;
+	</noscript>
+</div>
+
+</div>
+</div>
+	</div>
+
+
+	<div id="page-wrapper">
+		<div id="page-header">
+			<div id="logo">
+				<a href="http://www.csfd.cz/" title="ČSFD.cz">
+					<img src="./bestmovies_files/logo.png" alt="ČSFD.cz" width="330" height="75">
+				</a>
+				<h2 class="hidden">Česko-Slovenská filmová databáze</h2>
+			</div>
+
+				<p class="community-event">
+			<a href="http://www.csfd.cz/akce/130-csfd-projekce-interstellar/">ČSFD projekce <em>Interstellar</em></a><br>
+	</p>
+
+	<div id="user-menu" class="logged">
+		<a href="http://www.csfd.cz/uzivatel/395156-honza-kuzel/"><img src="./bestmovies_files/anonymous.png" alt="honza.kuzel" class="avatar" width="60" height="80"></a>
+		<ul class="first">
+			<li><h3><a href="http://www.csfd.cz/uzivatel/395156-honza-kuzel/">honza.kuzel</a></h3></li>
+			<li><a href="http://www.csfd.cz/posta/" class="private">Pošta</a>
+</li>
+			<li><a href="http://www.csfd.cz/uzivatel/395156-honza-kuzel/" class="private">Můj účet</a></li>
+			<li><a href="http://www.csfd.cz/diskuze/seznam/podle-unread/?flags%5B0%5D=unread&_form_=forum" class="private">Diskuze</a>
+</li>
+		</ul>
+		<ul class="second">
+			<li><a href="http://www.csfd.cz/chci-videt/" class="private">Chci vidět</a>
+</li>
+			<li><a href="http://www.csfd.cz/oblibeni/" class="private">Oblíbení</a>
+</li>
+			<li><a href="http://www.csfd.cz/pritomni/" class="private">Přítomní</a>
+</li>
+			<li><a href="http://www.csfd.cz/prihlaseni/odhlaseni/">Odhlásit</a></li>
+		</ul>
+	</div>
+
+
+	<div id="main-search">
+		<form action="http://www.csfd.cz/hledat/" method="get" novalidate="">
+			<div>
+				<input type="text" class="text" name="q" value="" id="mainSearch" size="20" placeholder="Hledat">
+				<input type="submit" class="submit" title="Hledat" value="" style="width: 23px;">
+			</div>
+		</form>
+		<a class="advanced-search" href="http://www.csfd.cz/podrobne-vyhledavani/">podrobné vyhledávání →</a>
+	</div>
+
+
+			<ul id="main-menu">
+						<li class="festival-event">
+			<a href="http://www.csfd.cz/festival/96-18-mfdf-ji-hlava/" title="18. MFDF Ji.hlava">18. MFDF Ji.hlava</a>
+		</li>
+
+	<li><a href="http://www.csfd.cz/novinky/">Novinky</a></li>
+	<li><a href="http://www.csfd.cz/videa/">Videa</a></li>
+	<li><a href="http://www.csfd.cz/televize/">Televize</a></li>
+	<li><a href="http://www.csfd.cz/kino/">Kino</a></li>
+	<li><a href="http://www.csfd.cz/filmy-online/">Filmy online</a></li>
+	<li><a href="http://www.csfd.cz/dvd-a-bluray/">DVD &amp; Blu-ray</a></li>
+	<li><a href="http://www.csfd.cz/tvurci/">Tvůrci</a></li>
+	<li><a href="http://www.csfd.cz/zebricky/">Žebříčky</a></li>
+	<li><a href="http://www.csfd.cz/filmoteky/">Filmotéky</a></li>
+	<li><a href="http://www.csfd.cz/uzivatele/">Uživatelé</a></li>
+	<li><a href="http://www.csfd.cz/diskuze/">Diskuze</a></li>
+
+			</ul>
+
+			<ul id="context-menu" class="bottom-menu">
+				
+			</ul>
+				<div id="activity-message">
+	</div>
+
+		</div>
+
+
+		<div class="page-content" id="pg-web-charts">
+<h1>Žebříčky</h1>
+
+
+<div class="navigation">
+		<ul>
+			<li class="selected">
+				<a href="./bestmovies_files/bestmovies.html"><span>Nejlepší filmy</span></a>
+			</li>
+			<li>
+				<a href="http://www.csfd.cz/zebricky/nejhorsi-filmy/?show=complete"><span>Nejhorší filmy</span></a>
+			</li>
+			<li>
+				<a href="http://www.csfd.cz/zebricky/nejoblibenejsi-filmy/?show=complete"><span>Nejoblíbenější filmy</span></a>
+			</li>
+			<li class="last">
+				<a href="http://www.csfd.cz/zebricky/nejrozporuplnejsi-filmy/?show=complete"><span>Nejrozporuplnější filmy</span></a>
+			</li>
+		</ul>
+		<ul>
+			<li>
+				<a href="http://www.csfd.cz/zebricky/nejlepsi-serialy/?show=complete"><span>Nejlepší seriály</span></a>
+			</li>
+			<li>
+				<a href="http://www.csfd.cz/zebricky/nejhorsi-serialy/?show=complete"><span>Nejhorší seriály</span></a>
+			</li>
+			<li class="last">
+				<a href="http://www.csfd.cz/zebricky/nejoblibenejsi-serialy/?show=complete"><span>Nejoblíbenější seriály</span></a>
+			</li>
+		</ul>
+		<ul>
+			<li class="last">
+				<a href="http://www.csfd.cz/zebricky/specificky-vyber/?show=complete"><span>Specifičtější výběr</span></a>
+			</li>
+		</ul>
+</div>
+<div id="results" class="ct-general th-1">
+	<div class="header">
+		<h2>Nejlepší filmy</h2>
+		<div class="controls">Mé hodnocení</div>
+	</div>
+
+	<table class="content ui-table-list striped">
+		<tbody><tr>
+			<td class="order">1.</td>
+			<td class="film" id="chart-2294"><a href="http://www.csfd.cz/film/2294-vykoupeni-z-veznice-shawshank/">Vykoupení z věznice Shawshank</a> <span class="film-year">(1994)</span></td>
+			<td class="average">95,2%</td>
+			<td class="count">78187 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 13.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">2.</td>
+			<td class="film" id="chart-10135"><a href="http://www.csfd.cz/film/10135-forrest-gump/">Forrest Gump</a> <span class="film-year">(1994)</span></td>
+			<td class="average">94,7%</td>
+			<td class="count">90656 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 13.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">3.</td>
+			<td class="film" id="chart-2982"><a href="http://www.csfd.cz/film/2982-prelet-nad-kukaccim-hnizdem/">Přelet nad kukaččím hnízdem</a> <span class="film-year">(1975)</span></td>
+			<td class="average">92,9%</td>
+			<td class="count">57246 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 13.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">4.</td>
+			<td class="film" id="chart-2292"><a href="http://www.csfd.cz/film/2292-zelena-mile/">Zelená míle</a> <span class="film-year">(1999)</span></td>
+			<td class="average">92,8%</td>
+			<td class="count">77941 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 14.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">5.</td>
+			<td class="film" id="chart-8653"><a href="http://www.csfd.cz/film/8653-schindleruv-seznam/">Schindlerův seznam</a> <span class="film-year">(1993)</span></td>
+			<td class="average">92,3%</td>
+			<td class="count">50746 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 14.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">6.</td>
+			<td class="film" id="chart-2671"><a href="http://www.csfd.cz/film/2671-sedm/">Sedm</a> <span class="film-year">(1995)</span></td>
+			<td class="average">92,3%</td>
+			<td class="count">68882 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 14.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">7.</td>
+			<td class="film" id="chart-1644"><a href="http://www.csfd.cz/film/1644-kmotr/">Kmotr</a> <span class="film-year">(1972)</span></td>
+			<td class="average">92,1%</td>
+			<td class="count">48435 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 14.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">8.</td>
+			<td class="film" id="chart-6178"><a href="http://www.csfd.cz/film/6178-dvanact-rozhnevanych-muzu/">Dvanáct rozhněvaných mužů</a> <span class="film-year">(1957)</span></td>
+			<td class="average">91,5%</td>
+			<td class="count">24610 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 30.5.2014"></td>
+		</tr>
+		<tr>
+			<td class="order">9.</td>
+			<td class="film" id="chart-306731"><a href="http://www.csfd.cz/film/306731-nedotknutelni/">Nedotknutelní</a> <span class="film-year">(2011)</span></td>
+			<td class="average">91,4%</td>
+			<td class="count">44445 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 21.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">10.</td>
+			<td class="film" id="chart-1645"><a href="http://www.csfd.cz/film/1645-kmotr-ii/">Kmotr II</a> <span class="film-year">(1974)</span></td>
+			<td class="average">91,1%</td>
+			<td class="count">33732 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 13.4.2014"></td>
+		</tr>
+		<tr>
+			<td class="order">11.</td>
+			<td class="film" id="chart-4570"><a href="http://www.csfd.cz/film/4570-pelisky/">Pelíšky</a> <span class="film-year">(1999)</span></td>
+			<td class="average">91,0%</td>
+			<td class="count">78637 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 14.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">12.</td>
+			<td class="film" id="chart-5911"><a href="http://www.csfd.cz/film/5911-tenkrat-na-zapade/">Tenkrát na Západě</a> <span class="film-year">(1968)</span></td>
+			<td class="average">90,9%</td>
+			<td class="count">37593 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/3.gif" class="rating no-title" width="24" alt="***" title="vloženo 28.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">13.</td>
+			<td class="film" id="chart-301401"><a href="http://www.csfd.cz/film/301401-rivalove/">Rivalové</a> <span class="film-year">(2013)</span></td>
+			<td class="average">90,7%</td>
+			<td class="count">27597 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 30.3.2014"></td>
+		</tr>
+		<tr>
+			<td class="order">14.</td>
+			<td class="film" id="chart-8852"><a href="http://www.csfd.cz/film/8852-pulp-fiction-historky-z-podsveti/">Pulp Fiction: Historky z podsvětí</a> <span class="film-year">(1994)</span></td>
+			<td class="average">90,6%</td>
+			<td class="count">75116 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 22.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">15.</td>
+			<td class="film" id="chart-1248"><a href="http://www.csfd.cz/film/1248-terminator-2-den-zuctovani/">Terminátor 2: Den zúčtování</a> <span class="film-year">(1991)</span></td>
+			<td class="average">90,6%</td>
+			<td class="count">58881 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 14.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">16.</td>
+			<td class="film" id="chart-2356"><a href="http://www.csfd.cz/film/2356-mlceni-jehnatek/">Mlčení jehňátek</a> <span class="film-year">(1991)</span></td>
+			<td class="average">90,4%</td>
+			<td class="count">60358 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 14.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">17.</td>
+			<td class="film" id="chart-240479"><a href="http://www.csfd.cz/film/240479-gran-torino/">Gran Torino</a> <span class="film-year">(2008)</span></td>
+			<td class="average">90,3%</td>
+			<td class="count">52342 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 14.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">18.</td>
+			<td class="film" id="chart-4711"><a href="http://www.csfd.cz/film/4711-pan-prstenu-spolecenstvo-prstenu/">Pán prstenů: Společenstvo Prstenu</a> <span class="film-year">(2001)</span></td>
+			<td class="average">90,2%</td>
+			<td class="count">79092 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 1.4.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">19.</td>
+			<td class="film" id="chart-5910"><a href="http://www.csfd.cz/film/5910-hodny-zly-a-osklivy/">Hodný, zlý a ošklivý</a> <span class="film-year">(1966)</span></td>
+			<td class="average">90,2%</td>
+			<td class="count">25633 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">20.</td>
+			<td class="film" id="chart-223734"><a href="http://www.csfd.cz/film/223734-temny-rytir/">Temný rytíř</a> <span class="film-year">(2008)</span></td>
+			<td class="average">90,1%</td>
+			<td class="count">68416 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 14.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">21.</td>
+			<td class="film" id="chart-4712"><a href="http://www.csfd.cz/film/4712-pan-prstenu-navrat-krale/">Pán prstenů: Návrat krále</a> <span class="film-year">(2003)</span></td>
+			<td class="average">90,1%</td>
+			<td class="count">72928 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 1.4.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">22.</td>
+			<td class="film" id="chart-9499"><a href="http://www.csfd.cz/film/9499-matrix/">Matrix</a> <span class="film-year">(1999)</span></td>
+			<td class="average">90,1%</td>
+			<td class="count">78399 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/3.gif" class="rating no-title" width="24" alt="***" title="vloženo 26.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">23.</td>
+			<td class="film" id="chart-5954"><a href="http://www.csfd.cz/film/5954-rain-man/">Rain Man</a> <span class="film-year">(1988)</span></td>
+			<td class="average">90,0%</td>
+			<td class="count">55271 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 14.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">24.</td>
+			<td class="film" id="chart-228566"><a href="http://www.csfd.cz/film/228566-earth/">Earth</a> <span class="film-year">(2007)</span></td>
+			<td class="average">90,1%</td>
+			<td class="count">18169 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">25.</td>
+			<td class="film" id="chart-8650"><a href="http://www.csfd.cz/film/8650-dobyvatele-ztracene-archy/">Dobyvatelé ztracené archy</a> <span class="film-year">(1981)</span></td>
+			<td class="average">90,0%</td>
+			<td class="count">51392 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 15.8.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">26.</td>
+			<td class="film" id="chart-18780"><a href="http://www.csfd.cz/film/18780-sedm-statecnych/">Sedm statečných</a> <span class="film-year">(1960)</span></td>
+			<td class="average">90,0%</td>
+			<td class="count">35983 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 15.1.2014"></td>
+		</tr>
+		<tr>
+			<td class="order">27.</td>
+			<td class="film" id="chart-15046"><a href="http://www.csfd.cz/film/15046-podraz/">Podraz</a> <span class="film-year">(1973)</span></td>
+			<td class="average">89,9%</td>
+			<td class="count">23713 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 3.1.2014"></td>
+		</tr>
+		<tr>
+			<td class="order">28.</td>
+			<td class="film" id="chart-5342"><a href="http://www.csfd.cz/film/5342-vyssi-princip/">Vyšší princip</a> <span class="film-year">(1960)</span></td>
+			<td class="average">89,7%</td>
+			<td class="count">21288 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">29.</td>
+			<td class="film" id="chart-15031"><a href="http://www.csfd.cz/film/15031-butch-cassidy-a-sundance-kid/">Butch Cassidy a Sundance Kid</a> <span class="film-year">(1969)</span></td>
+			<td class="average">89,7%</td>
+			<td class="count">24262 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">30.</td>
+			<td class="film" id="chart-1245"><a href="http://www.csfd.cz/film/1245-vetrelci/">Vetřelci</a> <span class="film-year">(1986)</span></td>
+			<td class="average">89,6%</td>
+			<td class="count">42430 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 26.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">31.</td>
+			<td class="film" id="chart-773"><a href="http://www.csfd.cz/film/773-leon/">Leon</a> <span class="film-year">(1994)</span></td>
+			<td class="average">89,6%</td>
+			<td class="count">45586 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 21.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">32.</td>
+			<td class="film" id="chart-8265"><a href="http://www.csfd.cz/film/8265-vetrelec/">Vetřelec</a> <span class="film-year">(1979)</span></td>
+			<td class="average">89,6%</td>
+			<td class="count">49212 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 1.7.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">33.</td>
+			<td class="film" id="chart-8641"><a href="http://www.csfd.cz/film/8641-indiana-jones-a-posledni-krizova-vyprava/">Indiana Jones a Poslední křížová výprava</a> <span class="film-year">(1989)</span></td>
+			<td class="average">89,5%</td>
+			<td class="count">53315 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 19.1.2014"></td>
+		</tr>
+		<tr>
+			<td class="order">34.</td>
+			<td class="film" id="chart-6642"><a href="http://www.csfd.cz/film/6642-smrtonosna-past/">Smrtonosná past</a> <span class="film-year">(1988)</span></td>
+			<td class="average">89,5%</td>
+			<td class="count">49818 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 14.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">35.</td>
+			<td class="film" id="chart-4123"><a href="http://www.csfd.cz/film/4123-l-a-prisne-tajne/">L. A. - Přísně tajné</a> <span class="film-year">(1997)</span></td>
+			<td class="average">89,6%</td>
+			<td class="count">27748 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 14.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">36.</td>
+			<td class="film" id="chart-3092"><a href="http://www.csfd.cz/film/3092-cesta-do-hlubin-studakovy-duse/">Cesta do hlubin študákovy duše</a> <span class="film-year">(1939)</span></td>
+			<td class="average">89,5%</td>
+			<td class="count">29724 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 22.7.2014"></td>
+		</tr>
+		<tr>
+			<td class="order">37.</td>
+			<td class="film" id="chart-88625"><a href="http://www.csfd.cz/film/88625-mesto-bohu/">Město bohů</a> <span class="film-year">(2002)</span></td>
+			<td class="average">89,5%</td>
+			<td class="count">32350 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 30.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">38.</td>
+			<td class="film" id="chart-4244"><a href="http://www.csfd.cz/film/4244-spalovac-mrtvol/">Spalovač mrtvol</a> <span class="film-year">(1968)</span></td>
+			<td class="average">89,3%</td>
+			<td class="count">38150 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 21.7.2014"></td>
+		</tr>
+		<tr>
+			<td class="order">39.</td>
+			<td class="film" id="chart-2971"><a href="http://www.csfd.cz/film/2971-amadeus/">Amadeus</a> <span class="film-year">(1984)</span></td>
+			<td class="average">89,3%</td>
+			<td class="count">38853 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">40.</td>
+			<td class="film" id="chart-5238"><a href="http://www.csfd.cz/film/5238-star-wars-epizoda-v-imperium-vraci-uder/">Star Wars: Epizoda V - Impérium vrací úder</a> <span class="film-year">(1980)</span></td>
+			<td class="average">89,3%</td>
+			<td class="count">45700 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">41.</td>
+			<td class="film" id="chart-8806"><a href="http://www.csfd.cz/film/8806-obecna-skola/">Obecná škola</a> <span class="film-year">(1991)</span></td>
+			<td class="average">89,2%</td>
+			<td class="count">61105 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 16.11.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">42.</td>
+			<td class="film" id="chart-5992"><a href="http://www.csfd.cz/film/5992-marecku-podejte-mi-pero/">„Marečku, podejte mi pero!“</a> <span class="film-year">(1976)</span></td>
+			<td class="average">89,1%</td>
+			<td class="count">59680 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 21.1.2014"></td>
+		</tr>
+		<tr>
+			<td class="order">43.</td>
+			<td class="film" id="chart-4543"><a href="http://www.csfd.cz/film/4543-cista-duse/">Čistá duše</a> <span class="film-year">(2001)</span></td>
+			<td class="average">88,9%</td>
+			<td class="count">39803 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 14.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">44.</td>
+			<td class="film" id="chart-821"><a href="http://www.csfd.cz/film/821-s-certy-nejsou-zerty/">S čerty nejsou žerty</a> <span class="film-year">(1984)</span></td>
+			<td class="average">88,9%</td>
+			<td class="count">53587 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 19.1.2014"></td>
+		</tr>
+		<tr>
+			<td class="order">45.</td>
+			<td class="film" id="chart-8652"><a href="http://www.csfd.cz/film/8652-zachrante-vojina-ryana/">Zachraňte vojína Ryana</a> <span class="film-year">(1998)</span></td>
+			<td class="average">88,8%</td>
+			<td class="count">60778 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 21.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">46.</td>
+			<td class="film" id="chart-1747"><a href="http://www.csfd.cz/film/1747-tanec-s-vlky/">Tanec s vlky</a> <span class="film-year">(1990)</span></td>
+			<td class="average">88,7%</td>
+			<td class="count">37051 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">47.</td>
+			<td class="film" id="chart-5407"><a href="http://www.csfd.cz/film/5407-osviceni/">Osvícení</a> <span class="film-year">(1980)</span></td>
+			<td class="average">88,7%</td>
+			<td class="count">35175 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 22.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">48.</td>
+			<td class="film" id="chart-8242"><a href="http://www.csfd.cz/film/8242-casino/">Casino</a> <span class="film-year">(1995)</span></td>
+			<td class="average">88,7%</td>
+			<td class="count">24995 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 14.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">49.</td>
+			<td class="film" id="chart-254156"><a href="http://www.csfd.cz/film/254156-pocatek/">Počátek</a> <span class="film-year">(2010)</span></td>
+			<td class="average">88,6%</td>
+			<td class="count">65550 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 14.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">50.</td>
+			<td class="film" id="chart-6444"><a href="http://www.csfd.cz/film/6444-nelitostny-souboj/">Nelítostný souboj</a> <span class="film-year">(1995)</span></td>
+			<td class="average">88,6%</td>
+			<td class="count">24035 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 12.6.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">51.</td>
+			<td class="film" id="chart-6672"><a href="http://www.csfd.cz/film/6672-vesnicko-ma-strediskova/">Vesničko má středisková</a> <span class="film-year">(1985)</span></td>
+			<td class="average">88,6%</td>
+			<td class="count">60468 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 28.4.2014"></td>
+		</tr>
+		<tr>
+			<td class="order">52.</td>
+			<td class="film" id="chart-10128"><a href="http://www.csfd.cz/film/10128-navrat-do-budoucnosti/">Návrat do budoucnosti</a> <span class="film-year">(1985)</span></td>
+			<td class="average">88,5%</td>
+			<td class="count">44827 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 18.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">53.</td>
+			<td class="film" id="chart-346856"><a href="http://www.csfd.cz/film/346856-zmizela/">Zmizelá</a> <span class="film-year">(2014)</span></td>
+			<td class="average">88,6%</td>
+			<td class="count">5965 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">54.</td>
+			<td class="film" id="chart-5069"><a href="http://www.csfd.cz/film/5069-kult-hakoveho-krize/">Kult hákového kříže</a> <span class="film-year">(1998)</span></td>
+			<td class="average">88,4%</td>
+			<td class="count">42011 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 29.7.2014"></td>
+		</tr>
+		<tr>
+			<td class="order">55.</td>
+			<td class="film" id="chart-8411"><a href="http://www.csfd.cz/film/8411-obvykli-podezreli/">Obvyklí podezřelí</a> <span class="film-year">(1995)</span></td>
+			<td class="average">88,4%</td>
+			<td class="count">22837 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 16.11.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">56.</td>
+			<td class="film" id="chart-7355"><a href="http://www.csfd.cz/film/7355-pianista/">Pianista</a> <span class="film-year">(2002)</span></td>
+			<td class="average">88,3%</td>
+			<td class="count">39911 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 4.4.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">57.</td>
+			<td class="film" id="chart-5914"><a href="http://www.csfd.cz/film/5914-tenkrat-v-americe/">Tenkrát v Americe</a> <span class="film-year">(1984)</span></td>
+			<td class="average">88,4%</td>
+			<td class="count">15982 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">58.</td>
+			<td class="film" id="chart-642"><a href="http://www.csfd.cz/film/642-zivot-je-krasny/">Život je krásný</a> <span class="film-year">(1997)</span></td>
+			<td class="average">88,3%</td>
+			<td class="count">26845 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">59.</td>
+			<td class="film" id="chart-9926"><a href="http://www.csfd.cz/film/9926-prazdniny-v-rime/">Prázdniny v Římě</a> <span class="film-year">(1953)</span></td>
+			<td class="average">88,3%</td>
+			<td class="count">17039 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">60.</td>
+			<td class="film" id="chart-6169"><a href="http://www.csfd.cz/film/6169-star-wars-epizoda-iv-nova-nadeje/">Star Wars: Epizoda IV - Nová naděje</a> <span class="film-year">(1977)</span></td>
+			<td class="average">88,3%</td>
+			<td class="count">46206 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">61.</td>
+			<td class="film" id="chart-8759"><a href="http://www.csfd.cz/film/8759-ceta/">Četa</a> <span class="film-year">(1986)</span></td>
+			<td class="average">88,2%</td>
+			<td class="count">29467 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">62.</td>
+			<td class="film" id="chart-4385"><a href="http://www.csfd.cz/film/4385-psycho/">Psycho</a> <span class="film-year">(1960)</span></td>
+			<td class="average">88,2%</td>
+			<td class="count">24823 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">63.</td>
+			<td class="film" id="chart-2667"><a href="http://www.csfd.cz/film/2667-klub-rvacu/">Klub rváčů</a> <span class="film-year">(1999)</span></td>
+			<td class="average">88,2%</td>
+			<td class="count">52741 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 21.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">64.</td>
+			<td class="film" id="chart-20008"><a href="http://www.csfd.cz/film/20008-motylek/">Motýlek</a> <span class="film-year">(1973)</span></td>
+			<td class="average">88,2%</td>
+			<td class="count">21487 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">65.</td>
+			<td class="film" id="chart-8364"><a href="http://www.csfd.cz/film/8364-sesty-smysl/">Šestý smysl</a> <span class="film-year">(1999)</span></td>
+			<td class="average">88,1%</td>
+			<td class="count">55935 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 21.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">66.</td>
+			<td class="film" id="chart-2438"><a href="http://www.csfd.cz/film/2438-smrtonosna-zbran/">Smrtonosná zbraň</a> <span class="film-year">(1987)</span></td>
+			<td class="average">88,1%</td>
+			<td class="count">39805 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 8.2.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">67.</td>
+			<td class="film" id="chart-291617"><a href="http://www.csfd.cz/film/291617-senna/">Senna</a> <span class="film-year">(2010)</span></td>
+			<td class="average">88,2%</td>
+			<td class="count">8051 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">68.</td>
+			<td class="film" id="chart-102874"><a href="http://www.csfd.cz/film/102874-12-ukolu-pro-asterixe/">12 úkolů pro Asterixe</a> <span class="film-year">(1976)</span></td>
+			<td class="average">88,1%</td>
+			<td class="count">22023 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 19.1.2014"></td>
+		</tr>
+		<tr>
+			<td class="order">69.</td>
+			<td class="film" id="chart-5546"><a href="http://www.csfd.cz/film/5546-u-pokladny-stal/">U pokladny stál...</a> <span class="film-year">(1939)</span></td>
+			<td class="average">88,1%</td>
+			<td class="count">18451 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">70.</td>
+			<td class="film" id="chart-8271"><a href="http://www.csfd.cz/film/8271-gladiator/">Gladiátor</a> <span class="film-year">(2000)</span></td>
+			<td class="average">88,0%</td>
+			<td class="count">63711 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 21.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">71.</td>
+			<td class="film" id="chart-234462"><a href="http://www.csfd.cz/film/234462-warrior/">Warrior</a> <span class="film-year">(2011)</span></td>
+			<td class="average">88,1%</td>
+			<td class="count">27638 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 24.6.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">72.</td>
+			<td class="film" id="chart-9793"><a href="http://www.csfd.cz/film/9793-nekdo-to-rad-horke/">Někdo to rád horké</a> <span class="film-year">(1959)</span></td>
+			<td class="average">88,0%</td>
+			<td class="count">25332 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">73.</td>
+			<td class="film" id="chart-182363"><a href="http://www.csfd.cz/film/182363-million-dollar-baby/">Million Dollar Baby</a> <span class="film-year">(2004)</span></td>
+			<td class="average">88,0%</td>
+			<td class="count">44576 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 21.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">74.</td>
+			<td class="film" id="chart-223160"><a href="http://www.csfd.cz/film/223160-dokonaly-trik/">Dokonalý trik</a> <span class="film-year">(2006)</span></td>
+			<td class="average">88,0%</td>
+			<td class="count">53722 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 21.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">75.</td>
+			<td class="film" id="chart-14317"><a href="http://www.csfd.cz/film/14317-requiem-za-sen/">Requiem za sen</a> <span class="film-year">(2000)</span></td>
+			<td class="average">88,0%</td>
+			<td class="count">44792 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 21.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">76.</td>
+			<td class="film" id="chart-9455"><a href="http://www.csfd.cz/film/9455-kladivo-na-carodejnice/">Kladivo na čarodějnice</a> <span class="film-year">(1969)</span></td>
+			<td class="average">87,9%</td>
+			<td class="count">24124 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 22.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">77.</td>
+			<td class="film" id="chart-7827"><a href="http://www.csfd.cz/film/7827-frajer-luke/">Frajer Luke</a> <span class="film-year">(1967)</span></td>
+			<td class="average">88,0%</td>
+			<td class="count">17097 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 5.3.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">78.</td>
+			<td class="film" id="chart-4713"><a href="http://www.csfd.cz/film/4713-pan-prstenu-dve-veze/">Pán prstenů: Dvě věže</a> <span class="film-year">(2002)</span></td>
+			<td class="average">87,9%</td>
+			<td class="count">71503 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 1.4.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">79.</td>
+			<td class="film" id="chart-224141"><a href="http://www.csfd.cz/film/224141-bourneovo-ultimatum/">Bourneovo ultimátum</a> <span class="film-year">(2007)</span></td>
+			<td class="average">87,9%</td>
+			<td class="count">40766 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 21.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">80.</td>
+			<td class="film" id="chart-294824"><a href="http://www.csfd.cz/film/294824-nespoutany-django/">Nespoutaný Django</a> <span class="film-year">(2012)</span></td>
+			<td class="average">87,9%</td>
+			<td class="count">41369 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 18.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">81.</td>
+			<td class="film" id="chart-9277"><a href="http://www.csfd.cz/film/9277-dobry-will-hunting/">Dobrý Will Hunting</a> <span class="film-year">(1997)</span></td>
+			<td class="average">87,9%</td>
+			<td class="count">34713 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 21.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">82.</td>
+			<td class="film" id="chart-8246"><a href="http://www.csfd.cz/film/8246-mafiani/">Mafiáni</a> <span class="film-year">(1990)</span></td>
+			<td class="average">87,9%</td>
+			<td class="count">22205 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 21.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">83.</td>
+			<td class="film" id="chart-3297"><a href="http://www.csfd.cz/film/3297-statecne-srdce/">Statečné srdce</a> <span class="film-year">(1995)</span></td>
+			<td class="average">87,8%</td>
+			<td class="count">53919 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 24.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">84.</td>
+			<td class="film" id="chart-7700"><a href="http://www.csfd.cz/film/7700-podfu-c-k/">Podfu(c)k</a> <span class="film-year">(2000)</span></td>
+			<td class="average">87,8%</td>
+			<td class="count">39858 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 6.1.2014"></td>
+		</tr>
+		<tr>
+			<td class="order">85.</td>
+			<td class="film" id="chart-6654"><a href="http://www.csfd.cz/film/6654-americka-krasa/">Americká krása</a> <span class="film-year">(1999)</span></td>
+			<td class="average">87,7%</td>
+			<td class="count">51772 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 22.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">86.</td>
+			<td class="film" id="chart-5435"><a href="http://www.csfd.cz/film/5435-sedm-samuraju/">Sedm samurajů</a> <span class="film-year">(1954)</span></td>
+			<td class="average">87,7%</td>
+			<td class="count">11573 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">87.</td>
+			<td class="film" id="chart-235492"><a href="http://www.csfd.cz/film/235492-proklety-ostrov/">Prokletý ostrov</a> <span class="film-year">(2010)</span></td>
+			<td class="average">87,6%</td>
+			<td class="count">50453 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 21.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">88.</td>
+			<td class="film" id="chart-901"><a href="http://www.csfd.cz/film/901-trainspotting/">Trainspotting</a> <span class="film-year">(1996)</span></td>
+			<td class="average">87,5%</td>
+			<td class="count">40678 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 27.10.2014"></td>
+		</tr>
+		<tr>
+			<td class="order">89.</td>
+			<td class="film" id="chart-6663"><a href="http://www.csfd.cz/film/6663-na-samote-u-lesa/">Na samotě u lesa</a> <span class="film-year">(1976)</span></td>
+			<td class="average">87,4%</td>
+			<td class="count">45866 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 26.5.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">90.</td>
+			<td class="film" id="chart-6490"><a href="http://www.csfd.cz/film/6490-cas-probuzeni/">Čas probuzení</a> <span class="film-year">(1990)</span></td>
+			<td class="average">87,5%</td>
+			<td class="count">11995 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 10.8.2014"></td>
+		</tr>
+		<tr>
+			<td class="order">91.</td>
+			<td class="film" id="chart-10103"><a href="http://www.csfd.cz/film/10103-cesta-do-praveku/">Cesta do pravěku</a> <span class="film-year">(1955)</span></td>
+			<td class="average">87,4%</td>
+			<td class="count">36337 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">92.</td>
+			<td class="film" id="chart-6172"><a href="http://www.csfd.cz/film/6172-star-wars-epizoda-iii-pomsta-sithu/">Star Wars: Epizoda III - Pomsta Sithů</a> <span class="film-year">(2005)</span></td>
+			<td class="average">87,4%</td>
+			<td class="count">47033 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 17.11.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">93.</td>
+			<td class="film" id="chart-168"><a href="http://www.csfd.cz/film/168-medved/">Medvěd</a> <span class="film-year">(1988)</span></td>
+			<td class="average">87,4%</td>
+			<td class="count">14785 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">94.</td>
+			<td class="film" id="chart-8283"><a href="http://www.csfd.cz/film/8283-posledni-skaut/">Poslední skaut</a> <span class="film-year">(1991)</span></td>
+			<td class="average">87,3%</td>
+			<td class="count">34329 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 5.7.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">95.</td>
+			<td class="film" id="chart-45608"><a href="http://www.csfd.cz/film/45608-osudovy-dotek/">Osudový dotek</a> <span class="film-year">(2004)</span></td>
+			<td class="average">87,3%</td>
+			<td class="count">42758 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 16.7.2014"></td>
+		</tr>
+		<tr>
+			<td class="order">96.</td>
+			<td class="film" id="chart-8541"><a href="http://www.csfd.cz/film/8541-jara-cimrman-lezici-spici/">Jára Cimrman ležící, spící</a> <span class="film-year">(1983)</span></td>
+			<td class="average">87,3%</td>
+			<td class="count">31864 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">97.</td>
+			<td class="film" id="chart-311967"><a href="http://www.csfd.cz/film/311967-hon/">Hon</a> <span class="film-year">(2012)</span></td>
+			<td class="average">87,3%</td>
+			<td class="count">15119 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 14.4.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">98.</td>
+			<td class="film" id="chart-6474"><a href="http://www.csfd.cz/film/6474-star-wars-epizoda-vi-navrat-jediho/">Star Wars: Epizoda VI - Návrat Jediho</a> <span class="film-year">(1983)</span></td>
+			<td class="average">87,3%</td>
+			<td class="count">41716 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">99.</td>
+			<td class="film" id="chart-7698"><a href="http://www.csfd.cz/film/7698-sbal-prachy-a-vypadni/">Sbal prachy a vypadni</a> <span class="film-year">(1998)</span></td>
+			<td class="average">87,3%</td>
+			<td class="count">25614 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 15.6.2014"></td>
+		</tr>
+		<tr>
+			<td class="order">100.</td>
+			<td class="film" id="chart-3157"><a href="http://www.csfd.cz/film/3157-skola-zaklad-zivota/">Škola základ života!</a> <span class="film-year">(1938)</span></td>
+			<td class="average">87,3%</td>
+			<td class="count">23010 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 17.8.2014"></td>
+		</tr>
+		<tr>
+			<td class="order">101.</td>
+			<td class="film" id="chart-224384"><a href="http://www.csfd.cz/film/224384-americky-gangster/">Americký gangster</a> <span class="film-year">(2007)</span></td>
+			<td class="average">87,3%</td>
+			<td class="count">31847 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 26.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">102.</td>
+			<td class="film" id="chart-261679"><a href="http://www.csfd.cz/film/261679-zatoka/">Zátoka</a> <span class="film-year">(2009)</span></td>
+			<td class="average">87,3%</td>
+			<td class="count">5385 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">103.</td>
+			<td class="film" id="chart-3311"><a href="http://www.csfd.cz/film/3311-12-opic/">12 opic</a> <span class="film-year">(1995)</span></td>
+			<td class="average">87,1%</td>
+			<td class="count">43984 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 22.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">104.</td>
+			<td class="film" id="chart-22205"><a href="http://www.csfd.cz/film/22205-princezna-mononoke/">Princezna Mononoke</a> <span class="film-year">(1997)</span></td>
+			<td class="average">87,2%</td>
+			<td class="count">19612 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">105.</td>
+			<td class="film" id="chart-2335"><a href="http://www.csfd.cz/film/2335-zjizvena-tvar/">Zjizvená tvář</a> <span class="film-year">(1983)</span></td>
+			<td class="average">87,1%</td>
+			<td class="count">21332 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 1.7.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">106.</td>
+			<td class="film" id="chart-10089"><a href="http://www.csfd.cz/film/10089-byl-jednou-jeden-kral/">Byl jednou jeden král...</a> <span class="film-year">(1954)</span></td>
+			<td class="average">87,1%</td>
+			<td class="count">39217 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 1.4.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">107.</td>
+			<td class="film" id="chart-23443"><a href="http://www.csfd.cz/film/23443-svetaci/">Světáci</a> <span class="film-year">(1969)</span></td>
+			<td class="average">87,1%</td>
+			<td class="count">18414 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 21.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">108.</td>
+			<td class="film" id="chart-14999"><a href="http://www.csfd.cz/film/14999-shrek/">Shrek</a> <span class="film-year">(2001)</span></td>
+			<td class="average">87,1%</td>
+			<td class="count">72693 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 31.5.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">109.</td>
+			<td class="film" id="chart-4999"><a href="http://www.csfd.cz/film/4999-obchod-na-korze/">Obchod na korze</a> <span class="film-year">(1965)</span></td>
+			<td class="average">87,1%</td>
+			<td class="count">11621 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">110.</td>
+			<td class="film" id="chart-1249"><a href="http://www.csfd.cz/film/1249-terminator/">Terminátor</a> <span class="film-year">(1984)</span></td>
+			<td class="average">87,0%</td>
+			<td class="count">51611 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 26.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">111.</td>
+			<td class="film" id="chart-2302"><a href="http://www.csfd.cz/film/2302-uprchlik/">Uprchlík</a> <span class="film-year">(1993)</span></td>
+			<td class="average">87,0%</td>
+			<td class="count">30422 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 21.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">112.</td>
+			<td class="film" id="chart-83776"><a href="http://www.csfd.cz/film/83776-snehurka-a-sedm-trpasliku/">Sněhurka a sedm trpaslíků</a> <span class="film-year">(1937)</span></td>
+			<td class="average">87,0%</td>
+			<td class="count">17896 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">113.</td>
+			<td class="film" id="chart-5696"><a href="http://www.csfd.cz/film/5696-most-pres-reku-kwai/">Most přes řeku Kwai</a> <span class="film-year">(1957)</span></td>
+			<td class="average">87,0%</td>
+			<td class="count">15348 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">114.</td>
+			<td class="film" id="chart-6995"><a href="http://www.csfd.cz/film/6995-memento/">Memento</a> <span class="film-year">(2000)</span></td>
+			<td class="average">86,8%</td>
+			<td class="count">34357 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 21.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">115.</td>
+			<td class="film" id="chart-277770"><a href="http://www.csfd.cz/film/277770-cernobily-svet/">Černobílý svět</a> <span class="film-year">(2011)</span></td>
+			<td class="average">86,9%</td>
+			<td class="count">15024 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">116.</td>
+			<td class="film" id="chart-253641"><a href="http://www.csfd.cz/film/253641-home/">Home</a> <span class="film-year">(2009)</span></td>
+			<td class="average">86,9%</td>
+			<td class="count">7778 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 21.10.2014"></td>
+		</tr>
+		<tr>
+			<td class="order">117.</td>
+			<td class="film" id="chart-6251"><a href="http://www.csfd.cz/film/6251-sloni-muz/">Sloní muž</a> <span class="film-year">(1980)</span></td>
+			<td class="average">86,8%</td>
+			<td class="count">14295 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">118.</td>
+			<td class="film" id="chart-23587"><a href="http://www.csfd.cz/film/23587-zivot-briana/">Život Briana</a> <span class="film-year">(1979)</span></td>
+			<td class="average">86,8%</td>
+			<td class="count">24770 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">119.</td>
+			<td class="film" id="chart-8543"><a href="http://www.csfd.cz/film/8543-nejista-sezona/">Nejistá sezóna</a> <span class="film-year">(1987)</span></td>
+			<td class="average">86,8%</td>
+			<td class="count">15824 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">120.</td>
+			<td class="film" id="chart-7222"><a href="http://www.csfd.cz/film/7222-ponorka/">Ponorka</a> <span class="film-year">(1981)</span></td>
+			<td class="average">86,8%</td>
+			<td class="count">10250 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">121.</td>
+			<td class="film" id="chart-5401"><a href="http://www.csfd.cz/film/5401-olovena-vesta/">Olověná vesta</a> <span class="film-year">(1987)</span></td>
+			<td class="average">86,7%</td>
+			<td class="count">21559 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 19.1.2014"></td>
+		</tr>
+		<tr>
+			<td class="order">122.</td>
+			<td class="film" id="chart-182289"><a href="http://www.csfd.cz/film/182289-hotel-rwanda/">Hotel Rwanda</a> <span class="film-year">(2004)</span></td>
+			<td class="average">86,7%</td>
+			<td class="count">24130 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">123.</td>
+			<td class="film" id="chart-4978"><a href="http://www.csfd.cz/film/4978-smrt-krasnych-srncu/">Smrt krásných srnců</a> <span class="film-year">(1986)</span></td>
+			<td class="average">86,7%</td>
+			<td class="count">26520 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 30.10.2014"></td>
+		</tr>
+		<tr>
+			<td class="order">124.</td>
+			<td class="film" id="chart-2439"><a href="http://www.csfd.cz/film/2439-smrtonosna-zbran-2/">Smrtonosná zbraň 2</a> <span class="film-year">(1989)</span></td>
+			<td class="average">86,7%</td>
+			<td class="count">32293 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 8.2.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">125.</td>
+			<td class="film" id="chart-42136"><a href="http://www.csfd.cz/film/42136-cesta-do-fantazie/">Cesta do fantazie</a> <span class="film-year">(2001)</span></td>
+			<td class="average">86,7%</td>
+			<td class="count">18737 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">126.</td>
+			<td class="film" id="chart-16103"><a href="http://www.csfd.cz/film/16103-rocky/">Rocky</a> <span class="film-year">(1976)</span></td>
+			<td class="average">86,7%</td>
+			<td class="count">40382 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 21.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">127.</td>
+			<td class="film" id="chart-7123"><a href="http://www.csfd.cz/film/7123-pink-floyd-the-wall/">Pink Floyd: The Wall</a> <span class="film-year">(1982)</span></td>
+			<td class="average">86,7%</td>
+			<td class="count">14707 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">128.</td>
+			<td class="film" id="chart-9568"><a href="http://www.csfd.cz/film/9568-truman-show/">Truman Show</a> <span class="film-year">(1998)</span></td>
+			<td class="average">86,7%</td>
+			<td class="count">36019 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 21.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">129.</td>
+			<td class="film" id="chart-313105"><a href="http://www.csfd.cz/film/313105-horici-ker/">Hořící keř</a> <span class="film-year">(2013)</span></td>
+			<td class="average">86,7%</td>
+			<td class="count">10753 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">130.</td>
+			<td class="film" id="chart-8266"><a href="http://www.csfd.cz/film/8266-cerny-jestrab-sestrelen/">Černý jestřáb sestřelen</a> <span class="film-year">(2001)</span></td>
+			<td class="average">86,6%</td>
+			<td class="count">44313 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 21.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">131.</td>
+			<td class="film" id="chart-10102"><a href="http://www.csfd.cz/film/10102-carodejuv-ucen/">Čarodějův učeň</a> <span class="film-year">(1977)</span></td>
+			<td class="average">86,7%</td>
+			<td class="count">12922 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">132.</td>
+			<td class="film" id="chart-2315"><a href="http://www.csfd.cz/film/2315-carlitova-cesta/">Carlitova cesta</a> <span class="film-year">(1993)</span></td>
+			<td class="average">86,7%</td>
+			<td class="count">12573 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 21.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">133.</td>
+			<td class="film" id="chart-10125"><a href="http://www.csfd.cz/film/10125-vynalez-zkazy/">Vynález zkázy</a> <span class="film-year">(1958)</span></td>
+			<td class="average">86,7%</td>
+			<td class="count">13219 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">134.</td>
+			<td class="film" id="chart-307556"><a href="http://www.csfd.cz/film/307556-na-hrane-zitrka/">Na hraně zítřka</a> <span class="film-year">(2014)</span></td>
+			<td class="average">86,6%</td>
+			<td class="count">20594 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 14.9.2014"></td>
+		</tr>
+		<tr>
+			<td class="order">135.</td>
+			<td class="film" id="chart-197196"><a href="http://www.csfd.cz/film/197196-nae-meori-sogui-jiugae/">Nae meori sogui jiugae</a> <span class="film-year">(2004)</span></td>
+			<td class="average">86,7%</td>
+			<td class="count">8545 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">136.</td>
+			<td class="film" id="chart-1634"><a href="http://www.csfd.cz/film/1634-apokalypsa/">Apokalypsa</a> <span class="film-year">(1979)</span></td>
+			<td class="average">86,6%</td>
+			<td class="count">17859 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">137.</td>
+			<td class="film" id="chart-1482"><a href="http://www.csfd.cz/film/1482-kid/">Kid</a> <span class="film-year">(1921)</span></td>
+			<td class="average">86,7%</td>
+			<td class="count">6314 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">138.</td>
+			<td class="film" id="chart-5915"><a href="http://www.csfd.cz/film/5915-pro-par-dolaru-navic/">Pro pár dolarů navíc</a> <span class="film-year">(1965)</span></td>
+			<td class="average">86,6%</td>
+			<td class="count">11362 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">139.</td>
+			<td class="film" id="chart-4786"><a href="http://www.csfd.cz/film/4786-vsichni-dobri-rodaci/">Všichni dobří rodáci</a> <span class="film-year">(1968)</span></td>
+			<td class="average">86,5%</td>
+			<td class="count">12072 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">140.</td>
+			<td class="film" id="chart-5991"><a href="http://www.csfd.cz/film/5991-limonadovy-joe-aneb-konska-opera/">Limonádový Joe aneb Koňská opera</a> <span class="film-year">(1964)</span></td>
+			<td class="average">86,5%</td>
+			<td class="count">34172 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">141.</td>
+			<td class="film" id="chart-358267"><a href="http://www.csfd.cz/film/358267-trabantem-az-na-konec-sveta/">Trabantem až na konec světa</a> <span class="film-year">(2014)</span></td>
+			<td class="average">86,8%</td>
+			<td class="count">2621 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">142.</td>
+			<td class="film" id="chart-18777"><a href="http://www.csfd.cz/film/18777-velky-utek/">Velký útěk</a> <span class="film-year">(1963)</span></td>
+			<td class="average">86,5%</td>
+			<td class="count">9971 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">143.</td>
+			<td class="film" id="chart-252669"><a href="http://www.csfd.cz/film/252669-temny-rytir-povstal/">Temný rytíř povstal</a> <span class="film-year">(2012)</span></td>
+			<td class="average">86,4%</td>
+			<td class="count">41020 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 21.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">144.</td>
+			<td class="film" id="chart-2428"><a href="http://www.csfd.cz/film/2428-zpivani-v-desti/">Zpívání v dešti</a> <span class="film-year">(1952)</span></td>
+			<td class="average">86,5%</td>
+			<td class="count">7036 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">145.</td>
+			<td class="film" id="chart-4386"><a href="http://www.csfd.cz/film/4386-okno-do-dvora/">Okno do dvora</a> <span class="film-year">(1954)</span></td>
+			<td class="average">86,5%</td>
+			<td class="count">10462 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">146.</td>
+			<td class="film" id="chart-234768"><a href="http://www.csfd.cz/film/234768-jak-vycvicit-draka/">Jak vycvičit draka</a> <span class="film-year">(2010)</span></td>
+			<td class="average">86,4%</td>
+			<td class="count">41605 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 5.9.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">147.</td>
+			<td class="film" id="chart-8853"><a href="http://www.csfd.cz/film/8853-gauneri/">Gauneři</a> <span class="film-year">(1992)</span></td>
+			<td class="average">86,4%</td>
+			<td class="count">25588 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 21.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">148.</td>
+			<td class="film" id="chart-7395"><a href="http://www.csfd.cz/film/7395-nebesti-jezdci/">Nebeští jezdci</a> <span class="film-year">(1968)</span></td>
+			<td class="average">86,4%</td>
+			<td class="count">8571 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">149.</td>
+			<td class="film" id="chart-6977"><a href="http://www.csfd.cz/film/6977-absolvent/">Absolvent</a> <span class="film-year">(1967)</span></td>
+			<td class="average">86,4%</td>
+			<td class="count">15790 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">150.</td>
+			<td class="film" id="chart-4424"><a href="http://www.csfd.cz/film/4424-stvoreni-sveta/">Stvoření světa</a> <span class="film-year">(1957)</span></td>
+			<td class="average">86,3%</td>
+			<td class="count">19485 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">151.</td>
+			<td class="film" id="chart-136224"><a href="http://www.csfd.cz/film/136224-batman-zacina/">Batman začíná</a> <span class="film-year">(2005)</span></td>
+			<td class="average">86,3%</td>
+			<td class="count">49360 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 1.7.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">152.</td>
+			<td class="film" id="chart-8545"><a href="http://www.csfd.cz/film/8545-vrchni-prchni/">Vrchní, prchni!</a> <span class="film-year">(1980)</span></td>
+			<td class="average">86,3%</td>
+			<td class="count">49020 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 25.7.2014"></td>
+		</tr>
+		<tr>
+			<td class="order">153.</td>
+			<td class="film" id="chart-246291"><a href="http://www.csfd.cz/film/246291-ip-man/">Ip Man</a> <span class="film-year">(2008)</span></td>
+			<td class="average">86,3%</td>
+			<td class="count">15247 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 21.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">154.</td>
+			<td class="film" id="chart-43677"><a href="http://www.csfd.cz/film/43677-laska-nebeska/">Láska nebeská</a> <span class="film-year">(2003)</span></td>
+			<td class="average">86,2%</td>
+			<td class="count">51507 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 17.8.2014"></td>
+		</tr>
+		<tr>
+			<td class="order">155.</td>
+			<td class="film" id="chart-6648"><a href="http://www.csfd.cz/film/6648-predator/">Predátor</a> <span class="film-year">(1987)</span></td>
+			<td class="average">86,2%</td>
+			<td class="count">40736 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 8.7.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">156.</td>
+			<td class="film" id="chart-1646"><a href="http://www.csfd.cz/film/1646-kmotr-iii/">Kmotr III</a> <span class="film-year">(1990)</span></td>
+			<td class="average">86,2%</td>
+			<td class="count">22005 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 5.8.2014"></td>
+		</tr>
+		<tr>
+			<td class="order">157.</td>
+			<td class="film" id="chart-4983"><a href="http://www.csfd.cz/film/4983-ucho/">Ucho</a> <span class="film-year">(1970)</span></td>
+			<td class="average">86,2%</td>
+			<td class="count">12492 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">158.</td>
+			<td class="film" id="chart-9558"><a href="http://www.csfd.cz/film/9558-spolecnost-mrtvych-basniku/">Společnost mrtvých básníků</a> <span class="film-year">(1989)</span></td>
+			<td class="average">86,2%</td>
+			<td class="count">12742 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">159.</td>
+			<td class="film" id="chart-116574"><a href="http://www.csfd.cz/film/116574-tezka-vaha/">Těžká váha</a> <span class="film-year">(2005)</span></td>
+			<td class="average">86,2%</td>
+			<td class="count">15132 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">160.</td>
+			<td class="film" id="chart-3094"><a href="http://www.csfd.cz/film/3094-cisaruv-pekar-a-pekaruv-cisar/">Císařův pekař a pekařův císař</a> <span class="film-year">(1951)</span></td>
+			<td class="average">86,1%</td>
+			<td class="count">40442 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 25.7.2014"></td>
+		</tr>
+		<tr>
+			<td class="order">161.</td>
+			<td class="film" id="chart-229841"><a href="http://www.csfd.cz/film/229841-utek-do-divociny/">Útěk do divočiny</a> <span class="film-year">(2007)</span></td>
+			<td class="average">86,1%</td>
+			<td class="count">29022 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">162.</td>
+			<td class="film" id="chart-189557"><a href="http://www.csfd.cz/film/189557-obchodnik-se-smrti/">Obchodník se smrtí</a> <span class="film-year">(2005)</span></td>
+			<td class="average">86,1%</td>
+			<td class="count">42790 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 21.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">163.</td>
+			<td class="film" id="chart-8815"><a href="http://www.csfd.cz/film/8815-prednosta-stanice/">Přednosta stanice</a> <span class="film-year">(1941)</span></td>
+			<td class="average">86,1%</td>
+			<td class="count">17539 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">164.</td>
+			<td class="film" id="chart-8344"><a href="http://www.csfd.cz/film/8344-ve-jmenu-otce/">Ve jménu otce</a> <span class="film-year">(1993)</span></td>
+			<td class="average">86,2%</td>
+			<td class="count">6895 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">165.</td>
+			<td class="film" id="chart-269587"><a href="http://www.csfd.cz/film/269587-kralova-rec/">Králova řeč</a> <span class="film-year">(2010)</span></td>
+			<td class="average">86,0%</td>
+			<td class="count">38861 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 21.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">166.</td>
+			<td class="film" id="chart-6670"><a href="http://www.csfd.cz/film/6670-slavnosti-snezenek/">Slavnosti sněženek</a> <span class="film-year">(1983)</span></td>
+			<td class="average">86,0%</td>
+			<td class="count">37007 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 30.10.2014"></td>
+		</tr>
+		<tr>
+			<td class="order">167.</td>
+			<td class="film" id="chart-2339"><a href="http://www.csfd.cz/film/2339-neuplatni/">Neúplatní</a> <span class="film-year">(1987)</span></td>
+			<td class="average">86,0%</td>
+			<td class="count">18224 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 21.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">168.</td>
+			<td class="film" id="chart-9796"><a href="http://www.csfd.cz/film/9796-sunset-blvd/">Sunset Blvd.</a> <span class="film-year">(1950)</span></td>
+			<td class="average">86,1%</td>
+			<td class="count">6249 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">169.</td>
+			<td class="film" id="chart-8630"><a href="http://www.csfd.cz/film/8630-chyt-me-kdyz-to-dokazes/">Chyť mě, když to dokážeš</a> <span class="film-year">(2002)</span></td>
+			<td class="average">86,0%</td>
+			<td class="count">53792 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 25.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">170.</td>
+			<td class="film" id="chart-136076"><a href="http://www.csfd.cz/film/136076-bournuv-mytus/">Bournův mýtus</a> <span class="film-year">(2004)</span></td>
+			<td class="average">86,0%</td>
+			<td class="count">36453 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 21.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">171.</td>
+			<td class="film" id="chart-6741"><a href="http://www.csfd.cz/film/6741-lvi-kral/">Lví král</a> <span class="film-year">(1994)</span></td>
+			<td class="average">86,0%</td>
+			<td class="count">30155 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">172.</td>
+			<td class="film" id="chart-2668"><a href="http://www.csfd.cz/film/2668-hra/">Hra</a> <span class="film-year">(1997)</span></td>
+			<td class="average">86,0%</td>
+			<td class="count">28643 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 18.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">173.</td>
+			<td class="film" id="chart-4562"><a href="http://www.csfd.cz/film/4562-ceska-soda/">Česká soda</a> <span class="film-year">(1998)</span></td>
+			<td class="average">85,9%</td>
+			<td class="count">19149 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">174.</td>
+			<td class="film" id="chart-546"><a href="http://www.csfd.cz/film/546-skala/">Skála</a> <span class="film-year">(1996)</span></td>
+			<td class="average">85,9%</td>
+			<td class="count">41247 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 17.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">175.</td>
+			<td class="film" id="chart-1279"><a href="http://www.csfd.cz/film/1279-zivot-je-krasny/">Život je krásný</a> <span class="film-year">(1946)</span></td>
+			<td class="average">86,1%</td>
+			<td class="count">4561 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">176.</td>
+			<td class="film" id="chart-8805"><a href="http://www.csfd.cz/film/8805-kolja/">Kolja</a> <span class="film-year">(1996)</span></td>
+			<td class="average">85,9%</td>
+			<td class="count">45048 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">177.</td>
+			<td class="film" id="chart-157454"><a href="http://www.csfd.cz/film/157454-sila-lidskosti-nicholas-winton/">Síla lidskosti - Nicholas Winton</a> <span class="film-year">(2002)</span></td>
+			<td class="average">86,0%</td>
+			<td class="count">6510 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">178.</td>
+			<td class="film" id="chart-142019"><a href="http://www.csfd.cz/film/142019-zlo-mezi-nami/">Zlo mezi námi</a> <span class="film-year">(2003)</span></td>
+			<td class="average">85,9%</td>
+			<td class="count">12094 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 21.10.2014"></td>
+		</tr>
+		<tr>
+			<td class="order">179.</td>
+			<td class="film" id="chart-1837"><a href="http://www.csfd.cz/film/1837-my-fair-lady/">My Fair Lady</a> <span class="film-year">(1964)</span></td>
+			<td class="average">85,9%</td>
+			<td class="count">14154 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">180.</td>
+			<td class="film" id="chart-5475"><a href="http://www.csfd.cz/film/5475-duchacek-to-zaridi/">Ducháček to zařídí</a> <span class="film-year">(1938)</span></td>
+			<td class="average">85,9%</td>
+			<td class="count">14976 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">181.</td>
+			<td class="film" id="chart-320638"><a href="http://www.csfd.cz/film/320638-strazci-galaxie/">Strážci Galaxie</a> <span class="film-year">(2014)</span></td>
+			<td class="average">85,9%</td>
+			<td class="count">8911 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">182.</td>
+			<td class="film" id="chart-2355"><a href="http://www.csfd.cz/film/2355-philadelphia/">Philadelphia</a> <span class="film-year">(1993)</span></td>
+			<td class="average">85,8%</td>
+			<td class="count">27045 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">183.</td>
+			<td class="film" id="chart-243655"><a href="http://www.csfd.cz/film/243655-haciko-pribeh-psa/">Hačikó - příběh psa</a> <span class="film-year">(2009)</span></td>
+			<td class="average">85,9%</td>
+			<td class="count">11875 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">184.</td>
+			<td class="film" id="chart-231978"><a href="http://www.csfd.cz/film/231978-96-hodin/">96 hodin</a> <span class="film-year">(2008)</span></td>
+			<td class="average">85,8%</td>
+			<td class="count">36847 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 25.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">185.</td>
+			<td class="film" id="chart-18113"><a href="http://www.csfd.cz/film/18113-agent-bez-minulosti/">Agent bez minulosti</a> <span class="film-year">(2002)</span></td>
+			<td class="average">85,8%</td>
+			<td class="count">39012 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 21.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">186.</td>
+			<td class="film" id="chart-8668"><a href="http://www.csfd.cz/film/8668-dobry-vojak-svejk/">Dobrý voják Švejk</a> <span class="film-year">(1956)</span></td>
+			<td class="average">85,8%</td>
+			<td class="count">30314 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">187.</td>
+			<td class="film" id="chart-10995"><a href="http://www.csfd.cz/film/10995-svet-podle-prota/">Svět podle Prota</a> <span class="film-year">(2001)</span></td>
+			<td class="average">85,7%</td>
+			<td class="count">28313 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">188.</td>
+			<td class="film" id="chart-1628"><a href="http://www.csfd.cz/film/1628-sam-doma/">Sám doma</a> <span class="film-year">(1990)</span></td>
+			<td class="average">85,7%</td>
+			<td class="count">50502 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 25.7.2014"></td>
+		</tr>
+		<tr>
+			<td class="order">189.</td>
+			<td class="film" id="chart-11970"><a href="http://www.csfd.cz/film/11970-pribeh-z-bronxu/">Příběh z Bronxu</a> <span class="film-year">(1993)</span></td>
+			<td class="average">85,8%</td>
+			<td class="count">10386 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 17.8.2014"></td>
+		</tr>
+		<tr>
+			<td class="order">190.</td>
+			<td class="film" id="chart-1472"><a href="http://www.csfd.cz/film/1472-diktator/">Diktátor</a> <span class="film-year">(1940)</span></td>
+			<td class="average">85,8%</td>
+			<td class="count">7172 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">191.</td>
+			<td class="film" id="chart-9430"><a href="http://www.csfd.cz/film/9430-tri-orisky-pro-popelku/">Tři oříšky pro Popelku</a> <span class="film-year">(1973)</span></td>
+			<td class="average">85,7%</td>
+			<td class="count">49016 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">192.</td>
+			<td class="film" id="chart-8258"><a href="http://www.csfd.cz/film/8258-zurici-byk/">Zuřící býk</a> <span class="film-year">(1980)</span></td>
+			<td class="average">85,7%</td>
+			<td class="count">12632 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">193.</td>
+			<td class="film" id="chart-32115"><a href="http://www.csfd.cz/film/32115-velky-flam/">Velký flám</a> <span class="film-year">(1966)</span></td>
+			<td class="average">85,7%</td>
+			<td class="count">14085 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">194.</td>
+			<td class="film" id="chart-8995"><a href="http://www.csfd.cz/film/8995-bio-raj/">Bio Ráj</a> <span class="film-year">(1988)</span></td>
+			<td class="average">85,9%</td>
+			<td class="count">3832 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">195.</td>
+			<td class="film" id="chart-319507"><a href="http://www.csfd.cz/film/319507-patrani-po-sugar-manovi/">Pátrání po Sugar Manovi</a> <span class="film-year">(2012)</span></td>
+			<td class="average">86,0%</td>
+			<td class="count">2987 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">196.</td>
+			<td class="film" id="chart-8755"><a href="http://www.csfd.cz/film/8755-jfk/">JFK</a> <span class="film-year">(1991)</span></td>
+			<td class="average">85,7%</td>
+			<td class="count">7943 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">197.</td>
+			<td class="film" id="chart-257649"><a href="http://www.csfd.cz/film/257649-oceany/">Oceány</a> <span class="film-year">(2009)</span></td>
+			<td class="average">86,6%</td>
+			<td class="count">1040 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">198.</td>
+			<td class="film" id="chart-23827"><a href="http://www.csfd.cz/film/23827-ticha-bolest/">Tichá bolest</a> <span class="film-year">(1990)</span></td>
+			<td class="average">85,8%</td>
+			<td class="count">4963 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">199.</td>
+			<td class="film" id="chart-944"><a href="http://www.csfd.cz/film/944-lepsi-uz-to-nebude/">Lepší už to nebude</a> <span class="film-year">(1997)</span></td>
+			<td class="average">85,6%</td>
+			<td class="count">32600 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 25.1.2014"></td>
+		</tr>
+		<tr>
+			<td class="order">200.</td>
+			<td class="film" id="chart-10129"><a href="http://www.csfd.cz/film/10129-navrat-do-budoucnosti-ii/">Návrat do budoucnosti II</a> <span class="film-year">(1989)</span></td>
+			<td class="average">85,6%</td>
+			<td class="count">31744 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 21.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">201.</td>
+			<td class="film" id="chart-34649"><a href="http://www.csfd.cz/film/34649-romeo-a-julie/">Romeo a Julie</a> <span class="film-year">(1968)</span></td>
+			<td class="average">85,7%</td>
+			<td class="count">6945 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">202.</td>
+			<td class="film" id="chart-646"><a href="http://www.csfd.cz/film/646-kramerova-versus-kramer/">Kramerová versus Kramer</a> <span class="film-year">(1979)</span></td>
+			<td class="average">85,7%</td>
+			<td class="count">8661 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 21.4.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">203.</td>
+			<td class="film" id="chart-5405"><a href="http://www.csfd.cz/film/5405-stezky-slavy/">Stezky slávy</a> <span class="film-year">(1957)</span></td>
+			<td class="average">85,8%</td>
+			<td class="count">4394 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">204.</td>
+			<td class="film" id="chart-117077"><a href="http://www.csfd.cz/film/117077-hanebny-pancharti/">Hanebný pancharti</a> <span class="film-year">(2009)</span></td>
+			<td class="average">85,6%</td>
+			<td class="count">54629 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 17.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">205.</td>
+			<td class="film" id="chart-1488"><a href="http://www.csfd.cz/film/1488-moderni-doba/">Moderní doba</a> <span class="film-year">(1936)</span></td>
+			<td class="average">85,8%</td>
+			<td class="count">4818 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">206.</td>
+			<td class="film" id="chart-32107"><a href="http://www.csfd.cz/film/32107-cetnik-ze-saint-tropez/">Četník ze Saint Tropez</a> <span class="film-year">(1964)</span></td>
+			<td class="average">85,6%</td>
+			<td class="count">36073 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">207.</td>
+			<td class="film" id="chart-4379"><a href="http://www.csfd.cz/film/4379-na-sever-severozapadni-linkou/">Na sever severozápadní linkou</a> <span class="film-year">(1959)</span></td>
+			<td class="average">85,7%</td>
+			<td class="count">7151 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">208.</td>
+			<td class="film" id="chart-91936"><a href="http://www.csfd.cz/film/91936-zamek-v-oblacich/">Zámek v oblacích</a> <span class="film-year">(2004)</span></td>
+			<td class="average">85,6%</td>
+			<td class="count">11038 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">209.</td>
+			<td class="film" id="chart-28495"><a href="http://www.csfd.cz/film/28495-laputa-nebesky-zamek/">Laputa: Nebeský zámek</a> <span class="film-year">(1986)</span></td>
+			<td class="average">85,7%</td>
+			<td class="count">4678 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">210.</td>
+			<td class="film" id="chart-1329"><a href="http://www.csfd.cz/film/1329-vec/">Věc</a> <span class="film-year">(1982)</span></td>
+			<td class="average">85,6%</td>
+			<td class="count">23769 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">211.</td>
+			<td class="film" id="chart-221020"><a href="http://www.csfd.cz/film/221020-skryta-identita/">Skrytá identita</a> <span class="film-year">(2006)</span></td>
+			<td class="average">85,5%</td>
+			<td class="count">34551 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">212.</td>
+			<td class="film" id="chart-36567"><a href="http://www.csfd.cz/film/36567-bidnici/">Bídníci</a> <span class="film-year">(1958)</span></td>
+			<td class="average">85,8%</td>
+			<td class="count">3867 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">213.</td>
+			<td class="film" id="chart-9876"><a href="http://www.csfd.cz/film/9876-ben-hur/">Ben Hur</a> <span class="film-year">(1959)</span></td>
+			<td class="average">85,6%</td>
+			<td class="count">7729 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">214.</td>
+			<td class="film" id="chart-293158"><a href="http://www.csfd.cz/film/293158-art-of-flight-the/">Art of Flight, The</a> <span class="film-year">(2011)</span></td>
+			<td class="average">85,7%</td>
+			<td class="count">3991 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">215.</td>
+			<td class="film" id="chart-32430"><a href="http://www.csfd.cz/film/32430-muz-z-acapulca/">Muž z Acapulca</a> <span class="film-year">(1973)</span></td>
+			<td class="average">85,5%</td>
+			<td class="count">16538 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">216.</td>
+			<td class="film" id="chart-29067"><a href="http://www.csfd.cz/film/29067-zvire/">Zvíře</a> <span class="film-year">(1977)</span></td>
+			<td class="average">85,5%</td>
+			<td class="count">14272 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">217.</td>
+			<td class="film" id="chart-293876"><a href="http://www.csfd.cz/film/293876-foo-fighters-back-and-forth/">Foo Fighters: Back and Forth</a> <span class="film-year">(2011)</span></td>
+			<td class="average">86,0%</td>
+			<td class="count">2029 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">218.</td>
+			<td class="film" id="chart-99455"><a href="http://www.csfd.cz/film/99455-laurel-a-hardy/">Laurel a Hardy</a> <span class="film-year">(1965)</span></td>
+			<td class="average">86,4%</td>
+			<td class="count">1128 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">219.</td>
+			<td class="film" id="chart-198327"><a href="http://www.csfd.cz/film/198327-shake-hands-with-the-devil/">Shake Hands with the Devil</a> <span class="film-year">(2007)</span></td>
+			<td class="average">85,8%</td>
+			<td class="count">2728 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">220.</td>
+			<td class="film" id="chart-7197"><a href="http://www.csfd.cz/film/7197-maly-velky-muz/">Malý velký muž</a> <span class="film-year">(1970)</span></td>
+			<td class="average">85,5%</td>
+			<td class="count">9406 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">221.</td>
+			<td class="film" id="chart-5307"><a href="http://www.csfd.cz/film/5307-norimbersky-proces/">Norimberský proces</a> <span class="film-year">(1961)</span></td>
+			<td class="average">85,8%</td>
+			<td class="count">2645 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">222.</td>
+			<td class="film" id="chart-141680"><a href="http://www.csfd.cz/film/141680-harakiri/">Harakiri</a> <span class="film-year">(1962)</span></td>
+			<td class="average">86,1%</td>
+			<td class="count">1457 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">223.</td>
+			<td class="film" id="chart-33433"><a href="http://www.csfd.cz/film/33433-podivne-dedictvi/">Podivné dědictví</a> <span class="film-year">(1972)</span></td>
+			<td class="average">85,5%</td>
+			<td class="count">9133 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">224.</td>
+			<td class="film" id="chart-150988"><a href="http://www.csfd.cz/film/150988-ratatouille/">Ratatouille</a> <span class="film-year">(2007)</span></td>
+			<td class="average">85,4%</td>
+			<td class="count">49360 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 17.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">225.</td>
+			<td class="film" id="chart-8680"><a href="http://www.csfd.cz/film/8680-poslusne-hlasim/">Poslušně hlásím</a> <span class="film-year">(1957)</span></td>
+			<td class="average">85,5%</td>
+			<td class="count">20135 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">226.</td>
+			<td class="film" id="chart-12036"><a href="http://www.csfd.cz/film/12036-dva-muzi-ve-meste/">Dva muži ve městě</a> <span class="film-year">(1973)</span></td>
+			<td class="average">85,6%</td>
+			<td class="count">4481 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">227.</td>
+			<td class="film" id="chart-33891"><a href="http://www.csfd.cz/film/33891-lady-a-tramp/">Lady a Tramp</a> <span class="film-year">(1955)</span></td>
+			<td class="average">85,5%</td>
+			<td class="count">8718 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">228.</td>
+			<td class="film" id="chart-83439"><a href="http://www.csfd.cz/film/83439-woodstock/">Woodstock</a> <span class="film-year">(1970)</span></td>
+			<td class="average">85,7%</td>
+			<td class="count">3466 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">229.</td>
+			<td class="film" id="chart-102865"><a href="http://www.csfd.cz/film/102865-asterix-v-britanii/">Asterix v Británii</a> <span class="film-year">(1986)</span></td>
+			<td class="average">85,5%</td>
+			<td class="count">13625 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">230.</td>
+			<td class="film" id="chart-9772"><a href="http://www.csfd.cz/film/9772-byt/">Byt</a> <span class="film-year">(1960)</span></td>
+			<td class="average">85,7%</td>
+			<td class="count">3723 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">231.</td>
+			<td class="film" id="chart-312928"><a href="http://www.csfd.cz/film/312928-dogani/">Dogani</a> <span class="film-year">(2011)</span></td>
+			<td class="average">86,1%</td>
+			<td class="count">1366 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">232.</td>
+			<td class="film" id="chart-12058"><a href="http://www.csfd.cz/film/12058-jean-od-floretty/">Jean od Floretty</a> <span class="film-year">(1986)</span></td>
+			<td class="average">85,9%</td>
+			<td class="count">2056 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">233.</td>
+			<td class="film" id="chart-18184"><a href="http://www.csfd.cz/film/18184-toy-story-pribeh-hracek/">Toy Story: Příběh hraček</a> <span class="film-year">(1995)</span></td>
+			<td class="average">85,4%</td>
+			<td class="count">35127 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">234.</td>
+			<td class="film" id="chart-5612"><a href="http://www.csfd.cz/film/5612-metropolis/">Metropolis</a> <span class="film-year">(1927)</span></td>
+			<td class="average">85,5%</td>
+			<td class="count">5937 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">235.</td>
+			<td class="film" id="chart-118264"><a href="http://www.csfd.cz/film/118264-pozemstane/">Pozemšťané</a> <span class="film-year">(2005)</span></td>
+			<td class="average">85,9%</td>
+			<td class="count">1824 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">236.</td>
+			<td class="film" id="chart-134171"><a href="http://www.csfd.cz/film/134171-crash/">Crash</a> <span class="film-year">(2004)</span></td>
+			<td class="average">85,4%</td>
+			<td class="count">24780 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 24.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">237.</td>
+			<td class="film" id="chart-43924"><a href="http://www.csfd.cz/film/43924-hleda-se-nemo/">Hledá se Nemo</a> <span class="film-year">(2003)</span></td>
+			<td class="average">85,4%</td>
+			<td class="count">51112 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">238.</td>
+			<td class="film" id="chart-5304"><a href="http://www.csfd.cz/film/5304-kdo-seje-vitr/">Kdo seje vítr</a> <span class="film-year">(1960)</span></td>
+			<td class="average">86,0%</td>
+			<td class="count">1493 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">239.</td>
+			<td class="film" id="chart-1461"><a href="http://www.csfd.cz/film/1461-svetla-velkomesta/">Světla velkoměsta</a> <span class="film-year">(1931)</span></td>
+			<td class="average">85,8%</td>
+			<td class="count">2121 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">240.</td>
+			<td class="film" id="chart-222173"><a href="http://www.csfd.cz/film/222173-zivoty-tech-druhych/">Životy těch druhých</a> <span class="film-year">(2006)</span></td>
+			<td class="average">85,4%</td>
+			<td class="count">9949 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">241.</td>
+			<td class="film" id="chart-19222"><a href="http://www.csfd.cz/film/19222-cekej-do-tmy/">Čekej do tmy</a> <span class="film-year">(1967)</span></td>
+			<td class="average">85,5%</td>
+			<td class="count">6243 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">242.</td>
+			<td class="film" id="chart-119599"><a href="http://www.csfd.cz/film/119599-bozske-deti/">Božské děti</a> <span class="film-year">(1997)</span></td>
+			<td class="average">85,8%</td>
+			<td class="count">2063 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">243.</td>
+			<td class="film" id="chart-29221"><a href="http://www.csfd.cz/film/29221-amelie-z-montmartru/">Amélie z Montmartru</a> <span class="film-year">(2001)</span></td>
+			<td class="average">85,4%</td>
+			<td class="count">40012 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">244.</td>
+			<td class="film" id="chart-14559"><a href="http://www.csfd.cz/film/14559-o-mysich-a-lidech/">O myších a lidech</a> <span class="film-year">(1992)</span></td>
+			<td class="average">85,4%</td>
+			<td class="count">8981 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">245.</td>
+			<td class="film" id="chart-4099"><a href="http://www.csfd.cz/film/4099-co-zere-gilberta-grapea/">Co žere Gilberta Grapea</a> <span class="film-year">(1993)</span></td>
+			<td class="average">85,4%</td>
+			<td class="count">18825 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">246.</td>
+			<td class="film" id="chart-49569"><a href="http://www.csfd.cz/film/49569-fimfarum-jana-wericha/">Fimfárum Jana Wericha</a> <span class="film-year">(2002)</span></td>
+			<td class="average">85,4%</td>
+			<td class="count">19046 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">247.</td>
+			<td class="film" id="chart-34363"><a href="http://www.csfd.cz/film/34363-stanley-kubrick-zivot-v-obrazech/">Stanley Kubrick: Život v obrazech</a> <span class="film-year">(2001)</span></td>
+			<td class="average">85,6%</td>
+			<td class="count">3254 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">248.</td>
+			<td class="film" id="chart-108769"><a href="http://www.csfd.cz/film/108769-mach-a-sebestova-k-tabuli/">Mach a Šebestová k tabuli!</a> <span class="film-year">(1985)</span></td>
+			<td class="average">85,4%</td>
+			<td class="count">12392 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">249.</td>
+			<td class="film" id="chart-290170"><a href="http://www.csfd.cz/film/290170-lemmy/">Lemmy</a> <span class="film-year">(2010)</span></td>
+			<td class="average">86,2%</td>
+			<td class="count">1167 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">250.</td>
+			<td class="film" id="chart-33202"><a href="http://www.csfd.cz/film/33202-kdysi-byli-bojovniky/">Kdysi byli bojovníky</a> <span class="film-year">(1994)</span></td>
+			<td class="average">85,6%</td>
+			<td class="count">3173 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">251.</td>
+			<td class="film" id="chart-6669"><a href="http://www.csfd.cz/film/6669-skrivanci-na-niti/">Skřivánci na niti</a> <span class="film-year">(1969)</span></td>
+			<td class="average">85,4%</td>
+			<td class="count">12365 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">252.</td>
+			<td class="film" id="chart-8221"><a href="http://www.csfd.cz/film/8221-volny-pad/">Volný pád</a> <span class="film-year">(1993)</span></td>
+			<td class="average">85,3%</td>
+			<td class="count">21068 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/3.gif" class="rating no-title" width="24" alt="***" title="vloženo 17.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">253.</td>
+			<td class="film" id="chart-5999"><a href="http://www.csfd.cz/film/5999-happy-end/">Happy end</a> <span class="film-year">(1967)</span></td>
+			<td class="average">85,5%</td>
+			<td class="count">4541 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">254.</td>
+			<td class="film" id="chart-5104"><a href="http://www.csfd.cz/film/5104-frigo-na-masine/">Frigo na mašině</a> <span class="film-year">(1926)</span></td>
+			<td class="average">85,6%</td>
+			<td class="count">3371 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">255.</td>
+			<td class="film" id="chart-70254"><a href="http://www.csfd.cz/film/70254-vecny-svit-neposkvrnene-mysli/">Věčný svit neposkvrněné mysli</a> <span class="film-year">(2004)</span></td>
+			<td class="average">85,3%</td>
+			<td class="count">35908 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">256.</td>
+			<td class="film" id="chart-13186"><a href="http://www.csfd.cz/film/13186-klepani-na-nebeskou-branu/">Klepání na nebeskou bránu</a> <span class="film-year">(1997)</span></td>
+			<td class="average">85,3%</td>
+			<td class="count">12093 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">257.</td>
+			<td class="film" id="chart-35432"><a href="http://www.csfd.cz/film/35432-rodinna-oslava/">Rodinná oslava</a> <span class="film-year">(1998)</span></td>
+			<td class="average">85,5%</td>
+			<td class="count">3692 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">258.</td>
+			<td class="film" id="chart-7244"><a href="http://www.csfd.cz/film/7244-nekonecny-pribeh/">Nekonečný příběh</a> <span class="film-year">(1984)</span></td>
+			<td class="average">85,3%</td>
+			<td class="count">34448 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">259.</td>
+			<td class="film" id="chart-9797"><a href="http://www.csfd.cz/film/9797-svedek-obzaloby/">Svědek obžaloby</a> <span class="film-year">(1957)</span></td>
+			<td class="average">86,0%</td>
+			<td class="count">1341 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">260.</td>
+			<td class="film" id="chart-33508"><a href="http://www.csfd.cz/film/33508-zelezny-schwarzenegger/">Železný Schwarzenegger</a> <span class="film-year">(1977)</span></td>
+			<td class="average">85,4%</td>
+			<td class="count">5200 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">261.</td>
+			<td class="film" id="chart-42923"><a href="http://www.csfd.cz/film/42923-velka-ryba/">Velká ryba</a> <span class="film-year">(2003)</span></td>
+			<td class="average">85,2%</td>
+			<td class="count">29871 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">262.</td>
+			<td class="film" id="chart-4863"><a href="http://www.csfd.cz/film/4863-mise/">Mise</a> <span class="film-year">(1986)</span></td>
+			<td class="average">85,3%</td>
+			<td class="count">7494 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">263.</td>
+			<td class="film" id="chart-7275"><a href="http://www.csfd.cz/film/7275-pani-kluci/">Páni kluci</a> <span class="film-year">(1975)</span></td>
+			<td class="average">85,2%</td>
+			<td class="count">17929 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">264.</td>
+			<td class="film" id="chart-271008"><a href="http://www.csfd.cz/film/271008-africke-kocky-kralovstvi-odvahy/">Africké kočky: Království odvahy</a> <span class="film-year">(2011)</span></td>
+			<td class="average">86,2%</td>
+			<td class="count">948 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">265.</td>
+			<td class="film" id="chart-43073"><a href="http://www.csfd.cz/film/43073-21-gramu/">21 gramů</a> <span class="film-year">(2003)</span></td>
+			<td class="average">85,2%</td>
+			<td class="count">26695 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 2.1.2014"></td>
+		</tr>
+		<tr>
+			<td class="order">266.</td>
+			<td class="film" id="chart-6200"><a href="http://www.csfd.cz/film/6200-pahorek/">Pahorek</a> <span class="film-year">(1965)</span></td>
+			<td class="average">85,4%</td>
+			<td class="count">4297 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">267.</td>
+			<td class="film" id="chart-5990"><a href="http://www.csfd.cz/film/5990-jachyme-hod-ho-do-stroje/">Jáchyme, hoď ho do stroje!</a> <span class="film-year">(1974)</span></td>
+			<td class="average">85,1%</td>
+			<td class="count">32937 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">268.</td>
+			<td class="film" id="chart-29484"><a href="http://www.csfd.cz/film/29484-ukradene-vanoce/">Ukradené Vánoce</a> <span class="film-year">(1993)</span></td>
+			<td class="average">85,2%</td>
+			<td class="count">18545 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">269.</td>
+			<td class="film" id="chart-4567"><a href="http://www.csfd.cz/film/4567-musime-si-pomahat/">Musíme si pomáhat</a> <span class="film-year">(2000)</span></td>
+			<td class="average">85,1%</td>
+			<td class="count">25941 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">270.</td>
+			<td class="film" id="chart-253387"><a href="http://www.csfd.cz/film/253387-mary-a-max/">Mary a Max</a> <span class="film-year">(2009)</span></td>
+			<td class="average">85,2%</td>
+			<td class="count">15804 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">271.</td>
+			<td class="film" id="chart-36434"><a href="http://www.csfd.cz/film/36434-baraka-odysea-zeme/">Baraka - Odysea země</a> <span class="film-year">(1992)</span></td>
+			<td class="average">85,3%</td>
+			<td class="count">5541 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">272.</td>
+			<td class="film" id="chart-9878"><a href="http://www.csfd.cz/film/9878-velka-zeme/">Velká země</a> <span class="film-year">(1958)</span></td>
+			<td class="average">85,5%</td>
+			<td class="count">2634 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">273.</td>
+			<td class="film" id="chart-10130"><a href="http://www.csfd.cz/film/10130-navrat-do-budoucnosti-iii/">Návrat do budoucnosti III</a> <span class="film-year">(1990)</span></td>
+			<td class="average">85,1%</td>
+			<td class="count">25558 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/5.gif" class="rating no-title" width="40" alt="*****" title="vloženo 21.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">274.</td>
+			<td class="film" id="chart-1471"><a href="http://www.csfd.cz/film/1471-zlate-opojeni/">Zlaté opojení</a> <span class="film-year">(1925)</span></td>
+			<td class="average">85,6%</td>
+			<td class="count">2039 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">275.</td>
+			<td class="film" id="chart-251188"><a href="http://www.csfd.cz/film/251188-x-men-prvni-trida/">X-Men: První třída</a> <span class="film-year">(2011)</span></td>
+			<td class="average">85,1%</td>
+			<td class="count">35123 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 18.1.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">276.</td>
+			<td class="film" id="chart-5981"><a href="http://www.csfd.cz/film/5981-adela-jeste-nevecerela/">Adéla ještě nevečeřela</a> <span class="film-year">(1977)</span></td>
+			<td class="average">85,1%</td>
+			<td class="count">26467 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">277.</td>
+			<td class="film" id="chart-6449"><a href="http://www.csfd.cz/film/6449-posledni-mohykan/">Poslední Mohykán</a> <span class="film-year">(1992)</span></td>
+			<td class="average">85,1%</td>
+			<td class="count">20182 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">278.</td>
+			<td class="film" id="chart-42132"><a href="http://www.csfd.cz/film/42132-nausika-z-vetrneho-udoli/">Naušika z Větrného údolí</a> <span class="film-year">(1984)</span></td>
+			<td class="average">85,2%</td>
+			<td class="count">4825 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">279.</td>
+			<td class="film" id="chart-23"><a href="http://www.csfd.cz/film/23-sklenene-peklo/">Skleněné peklo</a> <span class="film-year">(1974)</span></td>
+			<td class="average">85,1%</td>
+			<td class="count">13125 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">280.</td>
+			<td class="film" id="chart-5420"><a href="http://www.csfd.cz/film/5420-dersu-uzala/">Děrsu Uzala</a> <span class="film-year">(1975)</span></td>
+			<td class="average">85,5%</td>
+			<td class="count">2179 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">281.</td>
+			<td class="film" id="chart-16097"><a href="http://www.csfd.cz/film/16097-rambo-prvni-krev/">Rambo: První krev</a> <span class="film-year">(1982)</span></td>
+			<td class="average">85,0%</td>
+			<td class="count">29046 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 21.3.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">282.</td>
+			<td class="film" id="chart-235606"><a href="http://www.csfd.cz/film/235606-sigur-ros-heima/">Sigur Rós - Heima</a> <span class="film-year">(2007)</span></td>
+			<td class="average">85,4%</td>
+			<td class="count">2592 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">283.</td>
+			<td class="film" id="chart-308301"><a href="http://www.csfd.cz/film/308301-jiro-dreams-of-sushi/">Jiro Dreams of Sushi</a> <span class="film-year">(2011)</span></td>
+			<td class="average">86,7%</td>
+			<td class="count">611 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">284.</td>
+			<td class="film" id="chart-1485"><a href="http://www.csfd.cz/film/1485-svetla-ramp/">Světla ramp</a> <span class="film-year">(1952)</span></td>
+			<td class="average">85,7%</td>
+			<td class="count">1357 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">285.</td>
+			<td class="film" id="chart-308345"><a href="http://www.csfd.cz/film/308345-one-life/">One Life</a> <span class="film-year">(2011)</span></td>
+			<td class="average">86,7%</td>
+			<td class="count">584 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">286.</td>
+			<td class="film" id="chart-297496"><a href="http://www.csfd.cz/film/297496-klicko/">Kličko</a> <span class="film-year">(2011)</span></td>
+			<td class="average">85,3%</td>
+			<td class="count">3019 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">287.</td>
+			<td class="film" id="chart-16367"><a href="http://www.csfd.cz/film/16367-donnie-darko/">Donnie Darko</a> <span class="film-year">(2001)</span></td>
+			<td class="average">85,0%</td>
+			<td class="count">31849 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 5.10.2013"></td>
+		</tr>
+		<tr>
+			<td class="order">288.</td>
+			<td class="film" id="chart-5"><a href="http://www.csfd.cz/film/5-zhave-vystrely-2/">Žhavé výstřely 2</a> <span class="film-year">(1993)</span></td>
+			<td class="average">85,0%</td>
+			<td class="count">27747 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">289.</td>
+			<td class="film" id="chart-8505"><a href="http://www.csfd.cz/film/8505-nebe-a-dudy/">Nebe a dudy</a> <span class="film-year">(1941)</span></td>
+			<td class="average">85,2%</td>
+			<td class="count">5519 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">290.</td>
+			<td class="film" id="chart-33360"><a href="http://www.csfd.cz/film/33360-poklad-na-stribrnem-jezere/">Poklad na Stříbrném jezeře</a> <span class="film-year">(1962)</span></td>
+			<td class="average">85,0%</td>
+			<td class="count">20589 hodnocení</td>
+			<td class="rating"><img src="./bestmovies_files/4.gif" class="rating no-title" width="32" alt="****" title="vloženo 31.3.2014"></td>
+		</tr>
+		<tr>
+			<td class="order">291.</td>
+			<td class="film" id="chart-3308"><a href="http://www.csfd.cz/film/3308-monty-python-a-svaty-gral/">Monty Python a Svatý Grál</a> <span class="film-year">(1975)</span></td>
+			<td class="average">85,0%</td>
+			<td class="count">16077 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">292.</td>
+			<td class="film" id="chart-37440"><a href="http://www.csfd.cz/film/37440-koyaanisqatsi/">Koyaanisqatsi</a> <span class="film-year">(1982)</span></td>
+			<td class="average">85,3%</td>
+			<td class="count">3420 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">293.</td>
+			<td class="film" id="chart-19977"><a href="http://www.csfd.cz/film/19977-planeta-opic/">Planeta opic</a> <span class="film-year">(1968)</span></td>
+			<td class="average">85,0%</td>
+			<td class="count">20395 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">294.</td>
+			<td class="film" id="chart-221284"><a href="http://www.csfd.cz/film/221284-let-cislo-93/">Let číslo 93</a> <span class="film-year">(2006)</span></td>
+			<td class="average">85,0%</td>
+			<td class="count">17097 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">295.</td>
+			<td class="film" id="chart-3116"><a href="http://www.csfd.cz/film/3116-kristian/">Kristian</a> <span class="film-year">(1939)</span></td>
+			<td class="average">85,1%</td>
+			<td class="count">11786 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">296.</td>
+			<td class="film" id="chart-350"><a href="http://www.csfd.cz/film/350-gandhi/">Gándhí</a> <span class="film-year">(1982)</span></td>
+			<td class="average">85,1%</td>
+			<td class="count">5476 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">297.</td>
+			<td class="film" id="chart-12110"><a href="http://www.csfd.cz/film/12110-zelezny-obr/">Železný obr</a> <span class="film-year">(1999)</span></td>
+			<td class="average">85,2%</td>
+			<td class="count">5440 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">298.</td>
+			<td class="film" id="chart-6865"><a href="http://www.csfd.cz/film/6865-vychod-slunce/">Východ slunce</a> <span class="film-year">(1927)</span></td>
+			<td class="average">86,1%</td>
+			<td class="count">874 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">299.</td>
+			<td class="film" id="chart-5442"><a href="http://www.csfd.cz/film/5442-odvazni-muzove/">Odvážní mužové</a> <span class="film-year">(1962)</span></td>
+			<td class="average">85,6%</td>
+			<td class="count">1503 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+		<tr>
+			<td class="order">300.</td>
+			<td class="film" id="chart-33625"><a href="http://www.csfd.cz/film/33625-unaveni-sluncem/">Unaveni sluncem</a> <span class="film-year">(1994)</span></td>
+			<td class="average">85,2%</td>
+			<td class="count">3696 hodnocení</td>
+			<td class="rating"></td>
+		</tr>
+	</tbody></table>
+
+
+	<div class="footer">
+	</div>
+</div>
+
+<div class="ad">
+<table style="margin: 0 auto">
+	<tbody><tr>
+		<td><div class="ad-pmg ad-pmg-square" data-element-type="square">
+	
+<div id="bmone2n-19877.2.1.4" class="ui-advert ad-ibillboard ad-ibillboard-square" data-code="19877.2.1.4">
+	<noscript>
+		&lt;div style="display: inline"&gt;&lt;a href="http://go.cz.bbelements.com/please/redirect/19877/2/1/4/"&gt;&lt;img src="http://go.cz.bbelements.com/please/showit/19877/2/1/4/?typkodu=img&amp;keywords=" style="border-width: 0" alt="" /&gt;&lt;/a&gt;&lt;/div&gt;
+	</noscript>
+</div>
+
+</div>
+</td>
+	</tr>
+	<tr>
+		<td>
+<div id="bmone2n-19877.2.1.8" class="ui-advert ad-ibillboard ad-ibillboard-square" data-code="19877.2.1.8">
+	<noscript>
+		&lt;div style="display: inline"&gt;&lt;a href="http://go.cz.bbelements.com/please/redirect/19877/2/1/8/"&gt;&lt;img src="http://go.cz.bbelements.com/please/showit/19877/2/1/8/?typkodu=img&amp;keywords=" style="border-width: 0" alt="" /&gt;&lt;/a&gt;&lt;/div&gt;
+	</noscript>
+</div>
+</td>
+	</tr>
+</tbody></table>
+</div>
+			<div class="clear"></div>
+		</div>
+
+		<div id="page-footer">
+			<p>Česko-Slovenská filmová databáze © 2001-2014 <strong>POMO Media Group s.r.o.</strong> Všechna práva vyhrazena.</p>
+				<p>
+		<a href="http://www.csfd.cz/provozovatel-a-redakce/">Provozovatel a redakce</a> | <a href="http://www.csfd.cz/reklama-a-marketing/">Reklama a marketing</a> |
+		<a href="http://www.csfd.cz/navod-k-pouziti/">FAQ</a> | <a href="http://www.csfd.cz/kontakt/">Napište nám</a> |
+		<a href="http://www.csfd.cz/posledni-hledane-vyrazy/">Poslední hledané výrazy</a> | Server hosting zajišťuje <a href="http://www.vshosting.cz/">VSHosting s.r.o.</a>
+	</p>
+	<p>
+		Doporučujeme: <a href="http://www.supito.cz/">překlady</a>, <a href="http://www.indexreality.cz/">prodej nemovitostí</a>,
+		<a href="http://www.indexreality.cz/pronajem/">pronájem reality</a>, <a href="http://www.quickexpert.cz/">realitní kancelář</a>,
+		<a href="http://www.hyperinzerce.cz/">inzerce zdarma</a>, <a href="http://az-europe.eu/cz/e">Eshop AZ-europe.eu</a>
+	</p>
+
+		</div>
+
+	</div>
+
+	<!-- load ads data -->
+<script type="text/javascript" src="./bestmovies_files/data.js"></script>
+<script type="text/javascript">
+	CSFD.ads.provider.pmg.load();
+</script><script type="text/javascript" src="http://go.cz.bbelements.com/bb/bb_one2n.js" onerror="CSFD.ads.blocked = true"></script>
+<script type="text/javascript">
+	try {
+		var bbkeywords = '';
+			if (CSFD.ads.provider.ibillboard.isCode("19877.2.1.5")) bmone2n.addPosition("19877.2.1.5", '');
+			if (CSFD.ads.provider.ibillboard.isCode("19877.2.1.1")) bmone2n.addPosition("19877.2.1.1", '');
+			if (CSFD.ads.provider.ibillboard.isCode("19877.2.1.2")) bmone2n.addPosition("19877.2.1.2", '');
+			if (CSFD.ads.provider.ibillboard.isCode("19877.2.1.7")) bmone2n.addPosition("19877.2.1.7", '');
+			if (CSFD.ads.provider.ibillboard.isCode("19877.2.1.4")) bmone2n.addPosition("19877.2.1.4", '');
+			if (CSFD.ads.provider.ibillboard.isCode("19877.2.1.8")) bmone2n.addPosition("19877.2.1.8", '');
+		bmone2n.getAd('go.cz.bbelements.com', bbkeywords, '' + (typeof(bburlparam) == 'string' ? '&' + bburlparam : ''), 'utf-8');
+	}
+	catch (e) {}
+</script>
+<div id="bmone2t-19877.2.1.5" style="display:none"><script type="text/javascript"> try { if (CSFD.ads.provider.ibillboard.isCode("19877.2.1.5")) bmone2n.makeAd("19877.2.1.5"); } catch (e) {} </script></div>
+<div id="bmone2t-19877.2.1.1" style="display:none"><script type="text/javascript"> try { if (CSFD.ads.provider.ibillboard.isCode("19877.2.1.1")) bmone2n.makeAd("19877.2.1.1"); } catch (e) {} </script></div>
+<div id="bmone2t-19877.2.1.2" style="display:none"><script type="text/javascript"> try { if (CSFD.ads.provider.ibillboard.isCode("19877.2.1.2")) bmone2n.makeAd("19877.2.1.2"); } catch (e) {} </script></div>
+<div id="bmone2t-19877.2.1.7" style="display:none"><script type="text/javascript"> try { if (CSFD.ads.provider.ibillboard.isCode("19877.2.1.7")) bmone2n.makeAd("19877.2.1.7"); } catch (e) {} </script></div>
+<div id="bmone2t-19877.2.1.4" style="display:none"><script type="text/javascript"> try { if (CSFD.ads.provider.ibillboard.isCode("19877.2.1.4")) bmone2n.makeAd("19877.2.1.4"); } catch (e) {} </script></div>
+<div id="bmone2t-19877.2.1.8" style="display:none"><script type="text/javascript"> try { if (CSFD.ads.provider.ibillboard.isCode("19877.2.1.8")) bmone2n.makeAd("19877.2.1.8"); } catch (e) {} </script></div>
+<script type="text/javascript"> try { bmone2n.moveAd(); } catch (e) {} </script>
+
+		<script type="text/javascript">
+		<!--//--><![CDATA[//><!--
+		var pp_gemius_identifier = '.Xo70CM6eCnBhv6vp5QQNcR77xEWf47KiIqfXU6rmdf.e7';
+		// lines below shouldn't be edited
+		function gemius_pending(i) { window[i] = window[i] || function() { var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+		gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event');
+		(function(d,t) { try { var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':''); gt.setAttribute('async','async');
+		gt.setAttribute('defer','defer'); gt.src=l+'://spir.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) { }})(document,'script');
+		//--><!]]>
+	</script>
+
+		<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-11601932-1']);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+
+
+
+
+
+<table id="ajax-spinner" style="display: none;"><tbody><tr><td><div></div></td></tr></tbody></table><iframe id="gemius_hcconn_1414789427196_63357131" name="lsgetframe" width="0" height="0" scrolling="no" src="./bestmovies_files/lsget.html" style="display: none; visibility: hidden;"></iframe></body></html>
