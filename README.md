@@ -7,7 +7,7 @@ Command-line tool to work with rankings of ČSFD.
 csfdranks [-h] [--source_type {html}] [-s {order,film,average,count,rating}] [-o {simple,stats}] source  
 
 positional arguments:  
-  source - the data source  
+  source - the data source (html file)  
 
 optional arguments:  
   -h, --help - show this help message and exit  
